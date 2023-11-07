@@ -1,0 +1,18 @@
+# Links listed below will be included in your site navigation
+
+- text: Home
+  href: /
+- text: About
+  href: "#"
+- text: Team
+  href: "#"
+- text: Output
+  menu:
+  - text: Publications
+    href: "#"
+  - text: Meetings
+    href: "#"
+  - text: Outreach
+    href: "#"
+- text: News
+  href: "#"

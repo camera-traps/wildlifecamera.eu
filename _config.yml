@@ -1,0 +1,34 @@
+# SITE SETTINGS
+title: BIG_PICTURE
+author: BIG_PICTURE project partners
+
+# THEME SETTINGS
+theme: minima # Fallback theme
+remote_theme: peterdesmet/petridish@3.0
+repository: peterdesmet/big_picture
+posts_on_home: false
+tweets_on_home: false
+archive_permalink: /news/
+github_edit: false
+colors:
+  links: "#3C76AF"
+  banner: "#9F6C66"
+  footer: "#212E32"
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      type: "posts"
+    values:
+      permalink: "/news/:year/:slug/"
