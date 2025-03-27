@@ -8,6 +8,8 @@
   menu:
   - text: Partners
     href: /partners/
+  - text: People
+    href: /people/
 - text: Activities
   href: /activities/
 # - text: Gallery

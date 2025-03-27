@@ -1,0 +1,12 @@
+# Project team members listed below will appear on the /team page
+
+- name: Peter Desmet
+  role: WP 5
+  image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
+  description: >
+    Peter is passionate about open data and open science. He works as open data coordinator for the [Open science lab for biodiversity](https://oscibio.inbo.be) at the Research Institute for Nature and Forest (INBO).
+  orcid: 0000-0002-8442-8025
+  email: peter.desmet@inbo.be
+  researchgate: Peter-Desmet
+  bluesky: peterdesmet.com
+  github: peterdesmet
