@@ -2,17 +2,13 @@
 
 - text: Home
   href: /
+- text: Why
+  href: /why/
 - text: About
-  href: "#"
-- text: Team
-  href: "#"
-- text: Output
-  menu:
-  - text: Publications
-    href: "#"
-  - text: Meetings
-    href: "#"
-  - text: Outreach
-    href: "#"
-- text: News
-  href: "#"
+  href: /about/
+- text: Activities
+  href: /activities/
+- text: Gallery
+  href: /gallery/
+- text: Links
+  href: /links/
