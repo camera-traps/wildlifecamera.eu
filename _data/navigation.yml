@@ -10,6 +10,12 @@
     href: /partners/
   - text: People
     href: /people/
+- text: Outputs
+  menu:
+  - text: Publications
+    href: /publications/
+  - text: Deliverables
+    href: /deliverables/
 - text: Activities
   href: /activities/
 # - text: Gallery
