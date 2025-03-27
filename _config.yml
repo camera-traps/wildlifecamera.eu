@@ -2,18 +2,21 @@
 title: BIG_PICTURE
 author: BIG_PICTURE project partners
 
+# SOCIAL PROFILES
+social:
+  github: camera-traps/wildlifecamera.eu
+
 # THEME SETTINGS
 theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish@3.1
-repository: peterdesmet/big_picture
+repository: camera-traps/wildlifecamera.eu
 posts_on_home: false
-tweets_on_home: false
-archive_permalink: /news/
-github_edit: false
+github_edit: true
 colors:
   links: "#70a699"
   banner: "#8ba98f"
   footer: "#8ba98f"
+font_serif: true
 
 # BUILD SETTINGS
 markdown: kramdown
