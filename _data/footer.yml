@@ -3,60 +3,8 @@
 
 # Columns
 columns:
-  - description: >
-      Project partners:
-    links:
-    - text: Høgskolen i Innlandet
-      href: https://www.inn.no/
-      new_window: true
-    - text: Norwegian Institute for Nature Research, NINA
-      href: https://www.nina.no
-      new_window: true
-    - text: Bavarian Forest National Park
-      href: https://www.nationalpark-bayerischer-wald.bayern.de/
-      new_window: true
-    - text: Research Institute for Nature and Forest (INBO)
-      href: https://www.vlaanderen.be/inbo/en-gb/about-us/the-own-capital/
-      new_window: true
-    - text: Centre d'Ecologie Fonctionnelle et Evolutive
-      href: https://www.cefe.cnrs.fr/fr/
-      new_window: true
-    - text: Fondazione Edmund Mach
-      href: https://cri.fmach.it/
-      new_window: true
-    - text: Consiglio Nazionale delle Ricerche
-      href: https://www.cnr.it/
-      new_window: true
-    - text: Tilburg Law School
-      href: https://www.tilburguniversity.edu/nl/over/schools/law/departementen/plg
-      new_window: true
-    - text: Mammal Research Institute Polish Academy of Sciences
-      href: https://ibs.bialowieza.pl/en/
-      new_window: true
-    - text: Università degli Studi di Firenze
-      href: https://www.unifi.it/changelang-it.html
-      new_window: true
-    - text: University of Castilla-La Mancha
-      href: https://www.uclm.es/
-      new_window: true
-    - text: Sveriges lantbruksuniversitet
-      href: https://www.slu.se/en/
-      new_window: true
-    - text: University of Primorska
-      href: https://www.upr.si/en
-      new_window: true
-    - text: Fakulteta za varstvo okolja (Faculty of Environmental Protection)
-      href: https://fvo.si/
-      new_window: true
-    - text: University of Ljubljana, Biotechnical Faculty
-      href: https://www.bf.uni-lj.si/en/
-      new_window: true
-    - text: Max Planck Gesellschaft zur Foerderung der Wissenschaften e.V.
-      href: https://www.ab.mpg.de/
-      new_window: true
-    - text: Wageningen University
-      href: http://www.wur.nl
-      new_window: true
+  - description: |
+      ![Co-funded by EU](/assets/logos/cofunded-by-eu.png){:.img-fluid}
   - description: >
       This project is funded through the Biodiversa+ 2022 Call for Proposals "Improved transnational 
       monitoring of biodiversity and ecosystem change for science and society (`BiodivMon`)".

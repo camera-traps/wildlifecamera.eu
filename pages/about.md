@@ -38,6 +38,6 @@ permalink: /about/
 
 ## Funding
 
-This research was funded by **Biodiversa+**, the European Biodiversity Partnership, in the context of the **Big_Picture project** under the 2022-2023 **BiodivMon** joint call.
+This research was funded by **Biodiversa+**, the European Biodiversity Partnership, in the context of the **BIG_PICTURE project** under the 2022-2023 **BiodivMon** joint call.
 
 It was co-funded by the **European Commission (GA No. 101052342)** and the following funding organisations: Research Council of Norway, German Federal Ministry of Education and Research, Belgium Science Policy, French Agence Nationale de la Recherche, Italian Ministry of Universities and Research, Netherlands Organisation for Scientific Research, Polish National Science Centre, Ministry of Higher Education, Science and Innovation of the Republic of Slovenia, Swedish National Space Agency, Swedish Environmental Protection Agency and the Spanish Agencia Estatal de Investigación.
