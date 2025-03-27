@@ -4,16 +4,16 @@ author: BIG_PICTURE project partners
 
 # THEME SETTINGS
 theme: minima # Fallback theme
-remote_theme: peterdesmet/petridish@3.0
+remote_theme: peterdesmet/petridish@3.1
 repository: peterdesmet/big_picture
 posts_on_home: false
 tweets_on_home: false
 archive_permalink: /news/
 github_edit: false
 colors:
-  links: "#3C76AF"
-  banner: "#9F6C66"
-  footer: "#212E32"
+  links: "#70a699"
+  banner: "#8ba98f"
+  footer: "#8ba98f"
 
 # BUILD SETTINGS
 markdown: kramdown
