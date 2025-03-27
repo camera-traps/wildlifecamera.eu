@@ -12,10 +12,12 @@
     href: /people/
 - text: Outputs
   menu:
-  - text: Publications
-    href: /publications/
   - text: Deliverables
     href: /deliverables/
+  - text: Publications
+    href: /publications/
+  - text: Software
+    href: /software/
 - text: Activities
   href: /activities/
 # - text: Gallery
