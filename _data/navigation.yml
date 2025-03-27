@@ -6,6 +6,10 @@
   href: /why/
 - text: About
   href: /about/
+- text: Who
+  menu:
+  - text: Partners
+    href: /partners/
 - text: Activities
   href: /activities/
 # - text: Gallery
