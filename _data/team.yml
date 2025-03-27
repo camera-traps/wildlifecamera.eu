@@ -4,9 +4,19 @@
   role: WP 5
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
   description: >
-    Peter is passionate about open data and open science. He works as open data coordinator for the [Open science lab for biodiversity](https://oscibio.inbo.be) at the Research Institute for Nature and Forest (INBO).
+    Research Institute for Nature and Forest (INBO)
   orcid: 0000-0002-8442-8025
   email: peter.desmet@inbo.be
   researchgate: Peter-Desmet
   bluesky: peterdesmet.com
   github: peterdesmet
+
+- name: Fabiola Iannarilli
+  role: WP 8
+  image: https://avatars.githubusercontent.com/u/22197407?v=4
+  description: >
+    Max Planck Institute of Animal Behavior
+  orcid: 0000-0002-7018-3557
+  email: fiannarilli@ab.mpg.de
+  bluesky: fa-bio-la.bsky.social
+  github: fabiolaIannarilli
