@@ -6,6 +6,8 @@ background: /assets/home.jpg
 permalink: /
 ---
 
+**John wants something easy!**
+
 Our project aims to support European, national, regional and stakeholder organisations’ efforts to conserve and manage biodiversity by enhancing their timely access to robust monitoring data for a wide set of species not currently covered by accessible monitoring data.
 
 More specifically, the objectives are to:
