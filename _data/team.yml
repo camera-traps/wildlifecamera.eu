@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 - name: Peter Desmet
-  role: WP 5
+  role: WP5
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
   description: >
     Research Institute for Nature and Forest (INBO)
@@ -12,7 +12,7 @@
   github: peterdesmet
 
 - name: Fabiola Iannarilli
-  role: WP 8
+  role: WP8
   image: https://avatars.githubusercontent.com/u/22197407?v=4
   description: >
     Max Planck Institute of Animal Behavior
@@ -20,3 +20,12 @@
   email: fiannarilli@ab.mpg.de
   bluesky: fa-bio-la.bsky.social
   github: fabiolaIannarilli
+
+- name: Lien Reyserhove
+  role: WP5
+  image: https://avatars0.githubusercontent.com/u/32466479?s=400&v=4
+  description: >
+    Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0001-7484-9267
+  github: LienReyserhove
+  email: lien.reyserhove@inbo.be
