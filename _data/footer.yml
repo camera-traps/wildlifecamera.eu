@@ -4,10 +4,11 @@
 # Columns
 columns:
   - description: |
-      ![Co-funded by EU](/assets/logos/cofunded-by-eu.png){:.img-fluid}
-  - description: >
-      This project is funded through the Biodiversa+ 2022 Call for Proposals "Improved transnational 
-      monitoring of biodiversity and ecosystem change for science and society (`BiodivMon`)".
+      BIG_PICTURE is funded through the [2022-2023 Biodiversa+ BiodivMon call](https://www.biodiversa.eu/2022/10/07/2022-2023-joint-call/) for research proposals.
+
+      It was co-funded by the European Commission (GA No. `101052342`) and the following funding organisations: Research Council of Norway, German Federal Ministry of Education and Research, Belgium Science Policy, French Agence Nationale de la Recherche, Italian Ministry of Universities and Research, Netherlands Organisation for Scientific Research, Polish National Science Centre, Ministry of Higher Education, Science and Innovation of the Republic of Slovenia, Swedish National Space Agency, Swedish Environmental Protection Agency and the Spanish Agencia Estatal de Investigación.
+
+      ![Co-funded by EU](/assets/logos/cofunded-by-eu.png){:.img-fluid} ![Funded through Biodiversa+](/assets/logos/biodiversa.svg){:.img-fluid}
 
 # License
 license: >
