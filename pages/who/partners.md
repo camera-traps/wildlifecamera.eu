@@ -1,4 +1,5 @@
 ---
+layout: team
 title: Partners
 background: /assets/backgrounds/wolverine-scandcam.jpg 
 toc: true
@@ -44,3 +45,5 @@ permalink: /partners/
 ![logo](/assets/logos/uni-lj.png) | [Biotechnical Faculty](https://www.bf.uni-lj.si/en/), University of Ljubljana | Slovenia
 ![logo](/assets/logos/mpg.png) | [Department of Migration](https://www.ab.mpg.de/wikelski), Max Planck Institute of Animal Behavior | Germany
 ![logo](/assets/logos/wur.png) | [Department of Environmental Sciences](https://research.wur.nl/en/organisations/department-of-environmental-sciences), Wageningen University & Research | Netherlands
+
+## People

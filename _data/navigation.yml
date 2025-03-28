@@ -5,11 +5,7 @@
 - text: About
   href: /about/
 - text: Who
-  menu:
-  - text: Partners
-    href: /partners/
-  - text: People
-    href: /people/
+  href: /partners/
 - text: Outputs
   menu:
   - text: Deliverables
