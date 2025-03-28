@@ -16,7 +16,7 @@ However, the continent on which these species are recovering and expanding is ve
 In addition, changes in climate, land-use, and human values as well as the arrival of invasive species represent drivers of an ever-changing environment. This results in a need for constant adaptive management of wildlife species and populations, which requires access to up-to-date, accurate, and robust data on distributions and population trends – and this is where pictures become important.
 
 ## What do we want to do?
-
+john
 The main objective of the BIG PICTURE project is to bring together the enormous amount of species data that is collected by the thousands of wildlife camera traps (automatic cameras) distributed across Europe by professional researchers, citizen scientists and other private individuals.
 
 By developing the appropriate electronic infrastructure (databases and artificial intelligence-driven image processing capability) and statistical tools for data analysis, the BIG PICTURE project will facilitate the sharing, integration and joint analysis of data collected by many different institutions, allowing continental-scale assessments of species’ status.
