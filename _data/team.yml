@@ -1,31 +1,103 @@
 # Project team members listed below will appear on the /team page
 
+# - name: John Linnell
+#   description: University of Inland Norway (INN) & Norwegian Institute for Nature Research (NINA)
+
+# - name: Sunniva Bahlk
+#   description: Norwegian Institute for Nature Research (NINA)
+
+# - name: Alexander Bleasdale
+#   description: Swedish University of Agricultural Sciences (SLU)
+
+# - name: Martijn Bollen
+#   description: Research Institute for Nature and Forest (INBO)
+
+# - name: Jakub Bubnicki
+#   description: Mammal Research Institute - Polish Academy of Sciences
+
+# - name: Elena Buzan
+#   description: University of Primorska
+
+# - name: Francesca Cagnacci
+#   description: Research and Innovation Centre, Edmund Mach Foundation
+
+# - name: Jim Casaer
+#   description: Research Institute for Nature and Forest (INBO)
+
+# - name: Benjamin Cretois
+#   description: Norwegian Institute for Nature Research (NINA)
+
 - name: Peter Desmet
   role: WP5
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
-  description: >
-    Research Institute for Nature and Forest (INBO)
+  description: Research Institute for Nature and Forest (INBO)
   orcid: 0000-0002-8442-8025
   email: peter.desmet@inbo.be
   researchgate: Peter-Desmet
   bluesky: peterdesmet.com
   github: peterdesmet
 
+# - name: Elham Ebrahimi
+#   description: Wageningen University & Research (WUR)
+
+# - name: Floor Fleurke
+#   description: Tilburg University
+
+# - name: Magali Frauendorf
+#   description: Swedish University of Agricultural Sciences (SLU)
+
+# - name: Yon Halotel
+#   description: University of Inland Norway (INN)
+
+# - name: Maik Henrich
+#   description: Bavarian Forest National Park
+
+# - name: Marco Heurich
+#   description: Bavarian Forest National Park
+
+# - name: Tim Hofmeester
+#   description: Swedish University of Agricultural Sciences (SLU)
+
 - name: Fabiola Iannarilli
   role: WP8
   image: https://avatars.githubusercontent.com/u/22197407?v=4
-  description: >
-    Max Planck Institute of Animal Behavior
+  description: Max Planck Institute of Animal Behavior
   orcid: 0000-0002-7018-3557
   email: fiannarilli@ab.mpg.de
   bluesky: fa-bio-la.bsky.social
   github: fabiolaIannarilli
 
+# - name: Torfinn Jahren
+#   description: University of Inland Norway (INN)
+
+# - name: Patrick Jansen
+#   description: University of Utrecht & Wageningen University & Research (WUR)
+
+# - name: Klemen Jerina
+#   description: University of Ljubljana
+
+# - name: Yorick Liefting
+#   description: Wageningen University & Research (WUR)
+
+# - name: Lynn Pallemaerts
+#   description: Research Institute for Nature and Forest (INBO)
+
+# - name: Boštjan Pokorny
+#   description: Faculty of Environmental Protection
+
 - name: Lien Reyserhove
   role: WP5
   image: https://avatars0.githubusercontent.com/u/32466479?s=400&v=4
-  description: >
-    Research Institute for Nature and Forest (INBO)
+  description: Research Institute for Nature and Forest (INBO)
   orcid: 0000-0001-7484-9267
   github: LienReyserhove
   email: lien.reyserhove@inbo.be
+
+# - name: Marco Salvatori
+#   description: University of Firenze
+
+# - name: Rasmus Sørensen
+#   description: University of Inland Norway (INN)
+
+# - name: Joaquin Vicente
+#   description: University of Castilla-La Mancha
