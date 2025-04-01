@@ -1,7 +1,7 @@
 ---
 layout: home
 title: BIG_PICTURE
-description: Sharing camera-trap data to improve wildlife monitoring
+description: Sharing camera trap data to improve wildlife monitoring
 background: /assets/backgrounds/home.jpg
 toc: true
 permalink: /
