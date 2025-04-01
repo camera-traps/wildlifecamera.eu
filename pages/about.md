@@ -7,7 +7,7 @@ permalink: /about/
 
 ## What are the challenges?
 
-Professional researchers use CTs within the frames of a diversity of carefully designed field protocols often within spatially limited study sites. In addition, there are a massive number of camera traps in the hands of citizen scientists, including naturalists, hunters, foresters and landowners They are used in an unstructured manner, but cover a far larger proportion of the landscape.
+Professional researchers use camera traps within the frames of a diversity of carefully designed field protocols often within spatially limited study sites. In addition, there are a massive number of camera traps in the hands of citizen scientists, including naturalists, hunters, foresters and landowners They are used in an unstructured manner, but cover a far larger proportion of the landscape.
 
 ### Legal & trust issues
 
