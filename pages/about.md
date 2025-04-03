@@ -40,7 +40,7 @@ There is a need for tailored analysis frameworks as we currently lack a formal u
 5. Disseminate the project’s tools to end users, including wildlife/nature managers at regional, national, and European levels, hunters, foresters, naturalists, scientists, and the general public.
 
 ![Project overview](/assets/images/project-overview.jpg)
-_Flowchart of how WPs are gathered into clusters. Social science research in A provides the societal and policy
+_Flowchart of how work packages are gathered into clusters. Social science research in A provides the societal and policy
 framings for the technical scientific activities within B, C and D which develop better ways to make diverse data available to
 support a more informed policy development / implementation, with E ensuring the practical coordination and outreach activities
 for the project._
