@@ -7,7 +7,7 @@ permalink: /about/
 
 ## What are the challenges?
 
-Professional researchers use CTs within the frames of a diversity of carefully designed field protocols often within spatially limited study sites. In addition, there are a massive number of camera traps in the hands of citizen scientists, including naturalists, hunters, foresters and landowners They are used in an unstructured manner, but cover a far larger proportion of the landscape.
+Professional researchers use camera traps within the frames of a diversity of carefully designed field protocols often within spatially limited study sites. In addition, there are a massive number of camera traps in the hands of citizen scientists, including naturalists, hunters, foresters and landowners. They are used in an unstructured manner, but cover a far larger proportion of the landscape.
 
 ### Legal & trust issues
 
@@ -40,7 +40,7 @@ There is a need for tailored analysis frameworks as we currently lack a formal u
 5. Disseminate the project’s tools to end users, including wildlife/nature managers at regional, national, and European levels, hunters, foresters, naturalists, scientists, and the general public.
 
 ![Project overview](/assets/images/project-overview.jpg)
-_Flowchart of how WPs are gathered into clusters. Social science research in A provides the societal and policy
+_Flowchart of how work packages are gathered into clusters. Social science research in A provides the societal and policy
 framings for the technical scientific activities within B, C and D which develop better ways to make diverse data available to
 support a more informed policy development / implementation, with E ensuring the practical coordination and outreach activities
 for the project._
