@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Partners
-background: /assets/backgrounds/wolverine-scandcam.jpg 
+background: /assets/backgrounds/badger-scandcam.jpg
 toc: true
 permalink: /partners/
 ---

@@ -1,6 +1,6 @@
 ---
 title: About
-background: /assets/backgrounds/bison-poland.jpg
+background: /assets/backgrounds/roedeer-trondheim.jpg
 toc: true
 permalink: /about/
 ---
