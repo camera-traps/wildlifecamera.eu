@@ -12,8 +12,14 @@
 # - name: Martijn Bollen
 #   description: Research Institute for Nature and Forest (INBO)
 
-# - name: Jakub Bubnicki
-#   description: Mammal Research Institute - Polish Academy of Sciences
+- name: Jakub W. Bubnicki
+  role: WP5
+  image: https://avatars.githubusercontent.com/u/2170197?s=400&v=4
+  description: Mammal Research Institute Polish Academy of Sciences (MRI PAS)
+  orcid: 0000-0002-2064-3113
+  email: kbubnicki@ibs.bialowieza.pl
+  researchgate: Jakub-Bubnicki
+  github: kbubnicki
 
 # - name: Elena Buzan
 #   description: University of Primorska
