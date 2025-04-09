@@ -13,7 +13,6 @@ The main objective of the BIG PICTURE project is to bring together the enormous 
 
 By developing the appropriate electronic infrastructure (databases and artificial intelligence-driven image processing capability) and statistical tools for data analysis, the BIG PICTURE project will facilitate the sharing, integration and joint analysis of data collected by many different institutions, allowing continental-scale assessments of species’ status.
 
-
 ## What is this all about?
 
 Europe’s wildlife is undergoing dramatic changes. Successful conservation efforts during the 20th century have led to the recovery of many large mammal species, such as wolf, lynx, red deer, and roe deer across the continent. Some species, like the golden jackal, have expanded into formerly unoccupied areas.
