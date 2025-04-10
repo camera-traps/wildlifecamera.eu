@@ -11,7 +11,7 @@ permalink: /
 
 The main objective of the BIG_PICTURE project is to bring together the enormous amount of species data that is collected by the thousands of wildlife camera traps (automatic cameras) distributed across Europe by professional researchers, citizen scientists and other private individuals.
 
-By developing the appropriate electronic infrastructure (databases and artificial intelligence-driven image processing capability) and statistical tools for data analysis, the BIG PICTURE project will facilitate the sharing, integration and joint analysis of data collected by many different institutions, allowing continental-scale assessments of species’ status.
+By developing the appropriate electronic infrastructure (databases and artificial intelligence-driven image processing capability) and statistical tools for data analysis, the BIG_PICTURE project will facilitate the sharing, integration and joint analysis of data collected by many different institutions, allowing continental-scale assessments of species’ status.
 
 ## What is this all about?
 
