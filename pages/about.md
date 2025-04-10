@@ -1,6 +1,8 @@
 ---
 title: About
-background: /assets/backgrounds/roedeer-trondheim.jpg
+background:
+  img: /assets/backgrounds/roedeer-trondheim.jpg
+  by: INN
 toc: true
 permalink: /about/
 ---
