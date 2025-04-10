@@ -2,7 +2,9 @@
 layout: home
 title: BIG_PICTURE
 description: Sharing camera trap data to improve wildlife monitoring
-background: /assets/backgrounds/moose-slu-R3.jpg
+background:
+  img: /assets/backgrounds/moose-slu-R3.jpg
+  by: SCANDCAM & SLU
 toc: true
 permalink: /
 ---
