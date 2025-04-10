@@ -7,13 +7,7 @@ permalink: /partners/
 ---
 
 <style>
-  .content {
-    table {
-      img {
-        width: 100px;
-      }
-    }
-  }
+.content table img { width: 100px; }
 </style>
 
 ## Overview
