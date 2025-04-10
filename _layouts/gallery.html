@@ -7,13 +7,13 @@ remark: see _custom.scss for styling
 
 {% assign files = site.data.gallery %}
 
-<div id="carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-keyboard="false" data-bs-interval="5000">
+<div id="carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-keyboard="false" data-bs-interval="7000">
   <div class="carousel-inner">
     {% for file in files %}
       <div class="carousel-item{% if forloop.first %} active{% endif %}">
         <img class="d-block w-100" src="{{ file.href }}" alt="{{ med.timestamp }}">
         <div class="caption">
-          <h5>{{ file.title }}</h5>
+          <h4>{{ file.title }}</h4>
           <p>{{ file.description }}</p>
         </div>
       </div>
