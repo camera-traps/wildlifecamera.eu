@@ -22,7 +22,7 @@ Europe’s wildlife is undergoing dramatic changes. Successful conservation effo
 
 However, the continent on which these species are recovering and expanding is very different from the historic and prehistoric landscapes of the past. Europe is now a human-dominated landscape, with high human densities, massive habitat modification and many potential conflicts between recovering wildlife and the activities and interests of people.
 
-In addition, changes in climate, land-use, and human values as well as the arrival of invasive species represent drivers of an ever-changing environment. This results in a need for constant adaptive management of wildlife species and populations, which requires access to up-to-date, accurate, and robust data on distributions and population trends – and this is where pictures become important.
+In addition, changes in climate, land-use, and human values as well as the arrival of invasive species represent drivers of an ever-changing environment. This results in a need for constant adaptive management of wildlife species and populations, which requires access to up-to-date, accurate, and robust data on distributions and population trends – and this is where camera trap pictures become important.
 
 [Learn more](/about/){:.btn .btn-primary}
 [See who's involved](/partners/){:.btn .btn-outline-primary}
