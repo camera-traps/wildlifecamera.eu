@@ -33,6 +33,7 @@ There is a need for tailored analysis frameworks as we currently lack a formal u
 
 ## Project activities
 
+{:style="list-style-type: upper-alpha;"}
 1. Examine the legal and institutional issues that enable or constrain data sharing.
 2. Build procedures to connect different databases and develop robust AI-enabled image processing tools.
 3. Develop best practice procedures for different statistical analysis tools that can be best applied to different types of data.
