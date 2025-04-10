@@ -5,11 +5,12 @@ description: Sharing camera trap data to improve wildlife monitoring
 background:
   img: /assets/backgrounds/moose-slu-R3.jpg
   by: SCANDCAM-SLU
-toc: true
 permalink: /
 ---
 
 ## What do we want to do?
+
+![What do we want to do](/assets/images/want-we-want.png){:.w-50 .float-start .me-2}
 
 The main objective of the BIG_PICTURE project is to bring together the enormous amount of species data that is collected by the thousands of wildlife camera traps (automatic cameras) distributed across Europe by professional researchers, citizen scientists and other private individuals.
 
