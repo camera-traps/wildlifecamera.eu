@@ -49,8 +49,15 @@
 # - name: Floor Fleurke
 #   description: Tilburg University
 
-# - name: Magali Frauendorf
-#   description: Swedish University of Agricultural Sciences (SLU)
+ - name: Magali Frauendorf
+   role: WP6 & WP11
+   image: https://avatars.githubusercontent.com/u/72211711?s=400&v=4
+   description: Swedish University of Agricultural Sciences (SLU)
+   orcid: 0000-0003-1608-8396
+   email: magali.frauendorf@slu.se
+   researchgate: Magali-Frauendorf
+   bluesky: mfrauendorf.bsky.social
+   github: MagaliFr
 
 # - name: Yon Halotel
 #   description: University of Inland Norway (INN)
@@ -96,8 +103,8 @@
   image: https://avatars0.githubusercontent.com/u/32466479?s=400&v=4
   description: Research Institute for Nature and Forest (INBO)
   orcid: 0000-0001-7484-9267
-  github: LienReyserhove
   email: lien.reyserhove@inbo.be
+  github: LienReyserhove
 
 # - name: Marco Salvatori
 #   description: University of Firenze
