@@ -1,7 +1,9 @@
 ---
 layout: team
 title: Partners
-background: /assets/backgrounds/badger-scandcam.jpg
+background:
+  img: /assets/backgrounds/badger-scandcam.jpg
+  by: SCANDCAM-NINA
 toc: true
 permalink: /partners/
 ---
