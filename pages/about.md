@@ -17,7 +17,7 @@ Legal & trust issues, concerning both intellectual property rights and privacy 
 
 ### <i class="fa-solid fa-images text-primary"></i> Large volume of images
 
-The large volume of images represents a challenge for data processing (looking through images, extracting information). Relatively few professional projects process all data, and instead only focus on the target species. Automatic AI based technology is not yet very user friendly nor adequately trained for all European species. Citizen-science data is mostly manually scanned for species of interest and is rarely fully classified or entered into databases. This limits the possibility to **make data available**.
+The large volume of images represents a challenge for data processing (looking through images, extracting information) because it is very time-consuming. Relatively few professional projects process all data, and instead only focus on the target species. Automatic AI based technology is not yet very user friendly nor adequately trained for all European species. Citizen-science data is mostly manually scanned for species of interest and is rarely fully classified or entered into databases. This limits the possibility to **make data available**.
 
 ### <i class="fa-solid fa-database text-primary"></i> Different databases
 
@@ -40,10 +40,10 @@ There is a need for tailored analysis frameworks as we currently lack a formal u
 2. Build procedures to connect different databases and develop robust AI-enabled image processing tools.
 3. Develop best practice procedures for different statistical analysis tools that can be best applied to different types of data.
 4. Conduct analyses using the results from 1-3 to show the added value of data sharing.
-5. Disseminate the project’s tools to end users, including wildlife/nature managers at regional, national, and European levels, hunters, foresters, naturalists, scientists, and the general public.
+5. Disseminate the project’s tools to end users, including wildlife/nature managers, hunters, foresters, naturalists, scientists, and the general public at regional, national, and European levels. 
 
 ![Project overview](/assets/images/project-overview.jpg)
-_Flowchart of how work packages are gathered into clusters. Social science research in A provides the societal and policy
-framings for the technical scientific activities within B, C and D which develop better ways to make diverse data available to
-support a more informed policy development / implementation, with E ensuring the practical coordination and outreach activities
-for the project._
+_Flowchart of how work packages are gathered into clusters. Social science research (cluster A) provides the societal and policy
+framings for the technical scientific activities (cluster B, C and D) which focus on improving data accessibility to
+support more informed policy development and implementation, ensuring the practical coordination and outreach activities
+for the project (cluster E)._
