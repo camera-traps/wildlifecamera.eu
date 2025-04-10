@@ -1,12 +1,7 @@
 ---
 layout: default
+remark: see _custom.scss for styling
 ---
-
-<style>
-  .carousel-caption {
-    background: rgba(0, 0, 0, 0.5);
-  }
-</style>
 
 {{ content }}
 
@@ -17,7 +12,7 @@ layout: default
     {% for file in files %}
       <div class="carousel-item{% if forloop.first %} active{% endif %}">
         <img class="d-block w-100" src="{{ file.href }}" alt="{{ med.timestamp }}">
-        <div class="carousel-caption d-none d-md-block">
+        <div class="caption">
           <h5>{{ file.title }}</h5>
           <p>{{ file.description }}</p>
         </div>
