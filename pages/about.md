@@ -32,6 +32,7 @@ The lack of analytical tools for exploring data, especially when it concerns int
 There is a need for tailored analysis frameworks as we currently lack a formal understanding of which data can robustly be used to address which questions, or how best to integrate different data types. This limits the **robustness of the results** beyond specific study areas.
 
 ![Three camera trap images](/assets/images/three-cameratrap-images.png)
+Images by: Mammal Research Institute, Polish Academy of Sciences
 
 ## Project activities
 
