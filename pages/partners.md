@@ -18,7 +18,7 @@ permalink: /partners/
 
 **Duration:** 01/03/2024 – 28/02/2027  
 **Countries involved:** 10  
-**More information:** [John D.C. Linell](mailto:john.linnell@inn.no){:.clearfix}
+**More information:** [John D.C. Linnell](mailto:john.linnell@inn.no){:.clearfix}
 
 ## Partners
 
