@@ -11,9 +11,10 @@ repository: camera-traps/wildlifecamera.eu
 posts_on_home: false
 github_edit: true
 colors:
-  links: "#70a699"
-  banner: "#8ba98f"
-  footer: "#8ba98f"
+  links: "#BF9260"
+  banner: "#8A8764"
+  footer: "#8A8764"
+logo: /assets/logos/big_picture.png
 font_serif: true
 
 # BUILD SETTINGS
