@@ -24,11 +24,11 @@ permalink: /partners/
 
 &nbsp; | Organization | Country
 --- | --- | ---
-![logo](/assets/logos/inn.png) | Department of Forestry and Wildlife Management, [University of Inland Norway](https://www.inn.no/english/) | Norway
+![logo](/assets/logos/inn.png) | Department of Forestry and Wildlife Management, [University of Inland Norway (INN)](https://www.inn.no/english/) | Norway
 ![logo](/assets/logos/nina.png) | [Norwegian Institute for Nature Research (NINA)](https://www.nina.no/english/) | Norway
 ![logo](/assets/logos/bavarian.png) | Department for National Park Monitoring, [Bavarian Forest National Park](https://www.nationalpark-bayerischer-wald.bayern.de/english/research/) | Germany
 ![logo](/assets/logos/inbo.png) | Wildlife Management and Invasive Species & Open science lab for biodiversity, [Research Institute for Nature and Forest (INBO)](https://www.vlaanderen.be/inbo/en-gb/homepage/) | Belgium
-![logo](/assets/logos/cefe.png) | [Centre for Functional Ecology and Evolution (CEFE)](https://www.cefe.cnrs.fr/en/) | France
+![logo](/assets/logos/cefe.png) | [Centre for Functional Ecology and Evolution (CEFE, CNRS)](https://www.cefe.cnrs.fr/en/) & [Alpine Ecology Laboratory (LECA, CNRS)](https://leca.osug.fr/) | France
 ![logo](/assets/logos/fmach.png) | [Animal Ecology Unit](https://cri.fmach.it/en/Research-activity/Research-Unit/Animal-Ecology), Research and Innovation Centre, Edmund Mach Foundation | Italy
 ![logo](/assets/logos/cnr.png) | [Institute for Complex Systems](https://www.isc.cnr.it/), National Research Council of Italy | Italy
 ![logo](/assets/logos/tilburguniversity.png) | [Department of Public Law and Governance](https://www.tilburguniversity.edu/about/schools/law/departments/plg), Tilburg Law School | Netherlands
@@ -40,6 +40,6 @@ permalink: /partners/
 ![logo](/assets/logos/fvo.png) | [Faculty of Environmental Protection](https://fvo.si/en/) | Slovenia
 ![logo](/assets/logos/uni-lj.png) | [Biotechnical Faculty](https://www.bf.uni-lj.si/en/), University of Ljubljana | Slovenia
 ![logo](/assets/logos/mpg.png) | [Department of Migration](https://www.ab.mpg.de/wikelski), Max Planck Institute of Animal Behavior | Germany
-![logo](/assets/logos/wur.png) | [Department of Environmental Sciences](https://research.wur.nl/en/organisations/department-of-environmental-sciences), Wageningen University & Research | Netherlands
+![logo](/assets/logos/wur.png) | [Department of Environmental Sciences](https://research.wur.nl/en/organisations/department-of-environmental-sciences), Wageningen University & Research (WUR) | Netherlands
 
 ## People
