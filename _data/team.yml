@@ -22,7 +22,7 @@
 - name: Jakub W. Bubnicki
   role: WP5
   image: https://avatars.githubusercontent.com/u/2170197?s=400&v=4
-  description: Mammal Research Institute Polish Academy of Sciences (MRI PAS)
+  description: Mammal Research Institute, Polish Academy of Sciences (MRI PAS)
   orcid: 0000-0002-2064-3113
   email: kbubnicki@ibs.bialowieza.pl
   researchgate: Jakub-Bubnicki
@@ -33,7 +33,7 @@
 
 - name: Francesca Cagnacci
   image: /assets/images/francesca-cagnacci.jpg
-  description: Animal Ecology Unit, Research and Innovation Centre, Fondazione Edmund Mach, Italy
+  description: Animal Ecology Unit, Research and Innovation Centre, Edmund Mach Foundation
   orcid: 0000-0002-4954-9980
   email: francesca.cagnacci@fmach.it
   researchgate: Francesca-Cagnacci
@@ -45,7 +45,7 @@
 
 - name: Simon Chamaillé-Jammes
   image: /assets/images/simon-chamaille.jpeg
-  description: Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, France
+  description: Centre for Functional Ecology and Evolution (CEFE, CNRS)
   orcid: 0000-0003-0505-6620
   email: simon.chamaille@cefe.cnrs.fr
   researchgate: Simon-Chamaille-Jammes
@@ -67,7 +67,7 @@
 
 - name: Elham Ebrahimi
   image: /assets/images/elham-ebrahimi.jpg
-  description: Department of Environmental Sciences, Wageningen University and Research, The Netherlands
+  description: Department of Environmental Sciences, Wageningen University & Research (WUR)
   orcid: 0000-0001-5191-9832
   email: Elham.Ebrahimi@wur.nl
   researchgate: Elham-Ebrahimi-6
@@ -90,7 +90,7 @@
 
 - name: Olivier Gimenez
   image: /assets/images/olivier-gimenez.jpg
-  description: Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, France
+  description: Centre for Functional Ecology and Evolution (CEFE, CNRS)
   orcid: 0000-0001-7001-5142
   email: olivier.gimenez@cefe.cnrs.fr
   researchgate: Olivier-Gimenez
@@ -103,7 +103,7 @@
 
 - name: Maik Henrich
   image: /assets/images/maik-henrich.jpg
-  description: Bavarian Forest National Park, Germany
+  description: Bavarian Forest National Park
   orcid: 0000-0001-5942-1668
   email: Maik.Henrich@npv-bw.bayern.de
   researchgate: Maik-Henrich
@@ -160,18 +160,19 @@
 
 - name: Anne Loison
   image: /assets/images/anne-loison.jpg
-  description: Laboratoire Ecologie Alpine, CNRS, France
+  description: Alpine Ecology Laboratory (LECA, CNRS)
   orcid: 0000-0002-4252-0392
   email: anne.loison@univ-smb.fr
 
 - name: Vincent Miele
   image: /assets/images/vincent-miele.jpg
-  description: Laboratoire Ecologie Alpine, CNRS, France
+  description: Alpine Ecology Laboratory (LECA, CNRS)
   orcid: 0000-0001-7584-0088
   email: vincent.miele@cnrs.fr
 
 - name: Federico Ossi
-  description: Animal Ecology Unit, Research and Innovation Centre, Fondazione Edmund Mach, Italy
+  image: /assets/images/federico-ossi.png
+  description: Animal Ecology Unit, Research and Innovation Centre, Edmund Mach Foundation
   orcid: 0000-0001-9004-9649
   email: federico.ossi@fmach.it
   researchgate: Federico-Ossi
@@ -183,7 +184,7 @@
 
 - name: Stefano Palmero
   image: /assets/images/stefano-palmero.jpg
-  description: Bavarian Forest National Park, Germany
+  description: Bavarian Forest National Park
   orcid: 0000-0002-2755-1297
   email: st.palmero@gmail.com
   researchgate: Stefano-Palmero-2
@@ -201,7 +202,7 @@
 
 - name: Francesco Rovero
   image: /assets/images/francesco-rovero.jpg
-  description: Università degli Studi di Firenze, Italy
+  description: University of Florence
   orcid: 0000-0001-6688-1494
   email: francesco.rovero@unifi.it
   researchgate: Francesco-Rovero-2
@@ -217,7 +218,7 @@
 
 - name: Martin Wikelski
   image: /assets/images/martin-wikelski.jpg
-  description: Department of Migration, Max Planck Institute of Animal Behavior
+  description: Max Planck Institute of Animal Behavior
   orcid: 0000-0002-9790-7025
   email: wikelski@ab.mpg.de
   bluesky: animaltracking.bsky.social
