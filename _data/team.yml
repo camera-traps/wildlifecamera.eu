@@ -1,7 +1,14 @@
 # Project team members listed below will appear on the /team page
 
-# - name: John Linnell
-#   description: University of Inland Norway (INN) & Norwegian Institute for Nature Research (NINA)
+- name: John Linnell
+  role: project coordinator
+  image: /assets/images/john-linnell.jpg
+  description: University of Inland Norway (INN) & Norwegian Institute for Nature Research (NINA)
+  orcid: 0000-0002-8370-5633
+  email: john.linnell@inn.no
+  researchgate: John D C Linnell
+  linkedIn: linnell-john-d-c-b435b336
+  github: johndclinnell
 
 # - name: Sunniva Bahlk
 #   description: Norwegian Institute for Nature Research (NINA)
@@ -24,11 +31,26 @@
 # - name: Elena Buzan
 #   description: University of Primorska
 
-# - name: Francesca Cagnacci
-#   description: Research and Innovation Centre, Edmund Mach Foundation
-
+- name: Francesca Cagnacci
+  image: /assets/images/francesca-cagnacci.jpg
+  description: Animal Ecology Unit, Research and Innovation Centre, Fondazione Edmund Mach, Italy
+  orcid: 0000-0002-4954-9980
+  email: francesca.cagnacci@fmach.it
+  researchgate: Francesca-Cagnacci
+  linkedIn: francesca-cagnacci-b8052025
+  github: Cagnacci-Lab
+  
 # - name: Jim Casaer
 #   description: Research Institute for Nature and Forest (INBO)
+
+- name: Simon Chamaillé-Jammes
+  image: /assets/images/simon-chamaille.jpeg
+  description: Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, France
+  orcid: 0000-0003-0505-6620
+  email: simon.chamaille@cefe.cnrs.fr
+  researchgate: Simon-Chamaille-Jammes
+  bluesky: @chamaillejammes.bsky.social
+  linkedIn: simon-chamaillé-b6aa10296
 
 # - name: Benjamin Cretois
 #   description: Norwegian Institute for Nature Research (NINA)
@@ -43,8 +65,15 @@
   bluesky: peterdesmet.com
   github: peterdesmet
 
-# - name: Elham Ebrahimi
-#   description: Wageningen University & Research (WUR)
+- name: Elham Ebrahimi
+  image: /assets/images/elham-ebrahimi.jpg
+  description: Department of Environmental Sciences, Wageningen University and Research, The Netherlands
+  orcid: 0000-0001-5191-9832
+  email: Elham.Ebrahimi@wur.nl
+  researchgate: Elham Ebrahimi
+  bluesky: @elhamebrahimi.bsky.social
+  linkedIn: elham-ebrahimi-90b519b8
+  github: spatialecology
 
 # - name: Floor Fleurke
 #   description: Tilburg University
@@ -59,17 +88,38 @@
   bluesky: mfrauendorf.bsky.social
   github: MagaliFr
 
+- name: Olivier Gimenez
+  image: /assets/images/olivier-gimenez.jpg
+  description: Centre d'Ecologie Fonctionnelle et Evolutive, CNRS, France
+  orcid: 0000-0001-7001-5142
+  email: olivier.gimenez@cefe.cnrs.fr
+  researchgate: Olivier-Gimenez
+  bluesky: @oaggimenez.bsky.social
+  linkedIn: olivier-gimenez-545451115
+  github: oliviergimenez
+
 # - name: Yon Halotel
 #   description: University of Inland Norway (INN)
 
-# - name: Maik Henrich
-#   description: Bavarian Forest National Park
+- name: Maik Henrich
+  image: /assets/images/maik-henrich.jpg
+  description: Bavarian Forest National Park, Germany
+  orcid: 0000-0001-5942-1668
+  email: Maik.Henrich@npv-bw.bayern.de
+  researchgate: Maik-Henrich
 
 # - name: Marco Heurich
 #   description: Bavarian Forest National Park
 
-# - name: Tim Hofmeester
-#   description: Swedish University of Agricultural Sciences (SLU)
+- name: Tim Hofmeester
+  image: /assets/images/tim-hofmeester.jpg
+  description: Swedish University of Agricultural Sciences (SLU)
+  orcid: 0000-0003-2101-5482
+  email: tim.hofmeester@slu.se
+  researchgate: Tim-Hofmeester
+  bluesky: timhofmeester.bsky.social
+  github: Tim-Hofmeester
+  linkedIn: tim-hofmeester
 
 - name: Fabiola Iannarilli
   role: WP8
@@ -80,8 +130,12 @@
   bluesky: fa-bio-la.bsky.social
   github: fabiolaIannarilli
 
-# - name: Torfinn Jahren
-#   description: University of Inland Norway (INN)
+- name: Torfinn Jahren
+  image: /assets/images/torfinn-jahren.jpg
+  description: University of Inland Norway (INN)
+  orcid: 0000-0003-0337-1790
+  email: torfinn.jahren@inn.no
+  researchgate: Torfinn-Jahren
 
 # - name: Patrick Jansen
 #   description: University of Utrecht & Wageningen University & Research (WUR)
@@ -89,11 +143,51 @@
 # - name: Klemen Jerina
 #   description: University of Ljubljana
 
-# - name: Yorick Liefting
-#   description: Wageningen University & Research (WUR)
+- name: Petra Kaczensky
+  image: /assets/images/petra-kaczensky.jpg
+  description: University of Inland Norway (INN)
+  orcid: 0000-0001-5428-1176
+  email: petra.kaczensky@inn.no
+  researchgate: Petra-Kaczensky
+  github: pkaczensky
+
+ - name: Yorick Liefting
+  image: /assets/images/yorik-liefting.jpg
+  description: Wageningen University & Research (WUR)
+  orcid: 0000-0003-4719-3455
+  email: yorick.liefting@wur.nl
+  researchgate: Yorick-Liefting
+
+- name: Anne Loison
+  image: /assets/images/anne-loison.jpg
+  description: Laboratoire Ecologie Alpine, CNRS, France
+  orcid: 0000-0002-4252-0392
+  email: anne.loison@univ-smb.fr
+
+- name: Vincent Miele
+  image: /assets/images/vincent-miele.jpg
+  description: Laboratoire Ecologie Alpine, CNRS, France
+  orcid: 0000-0001-7584-0088
+  email: vincent.miele@cnrs.fr
+
+- name: Federico Ossi
+  image: /assets/images/federico-ossi.jpg
+  description: Animal Ecology Unit, Research and Innovation Centre, Fondazione Edmund Mach, Italy
+  orcid: 0000-0001-9004-9649
+  email: federico.ossi@fmach.it
+  researchgate: Federico-Ossi
+  github: Cagnacci-Lab
+  linkedIn: federico-ossi-40928635
 
 # - name: Lynn Pallemaerts
 #   description: Research Institute for Nature and Forest (INBO)
+
+- name: Stefano Palmero
+  image: /assets/images/stefano-palmero.jpg
+  description: Bavarian Forest National Park, Germany
+  orcid: 0000-0002-2755-1297
+  email: st.palmero@gmail.com
+  researchgate: Stefano-Palmero-2
 
 # - name: Boštjan Pokorny
 #   description: Faculty of Environmental Protection
@@ -106,6 +200,13 @@
   email: lien.reyserhove@inbo.be
   github: LienReyserhove
 
+- name: Francesco Rovero
+  image: /assets/images/francesco-rovero.jpg
+  description: Università degli Studi di Firenze, Italy
+  orcid: 0000-0001-6688-1494
+  email: francesco.rovero@unifi.it
+  researchgate: Francesco-Rovero-2
+
 # - name: Marco Salvatori
 #   description: University of Firenze
 
@@ -114,3 +215,10 @@
 
 # - name: Joaquin Vicente
 #   description: University of Castilla-La Mancha
+
+- name: Martin Wikelski
+  image: /assets/images/martin-wikelski.jpg
+  description: Department of Migration, Max Planck Institute of Animal Behavior
+  orcid: 0000-0002-9790-7025
+  email: wikelski@ab.mpg.de
+  bluesky: @animaltracking.bsky.social
