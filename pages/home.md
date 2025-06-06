@@ -2,7 +2,10 @@
 layout: home
 title: BIG_PICTURE # Not shown
 description: Sharing camera trap data to improve wildlife monitoring # Used for metadata, not shown
-background: /assets/logos/big_picture.gif # Used as banner image, not background
+background:
+  img: /assets/logos/big_picture.gif # Used as banner image, not background
+  by: Yon Halotel
+  href: /logo/
 permalink: /
 ---
 
