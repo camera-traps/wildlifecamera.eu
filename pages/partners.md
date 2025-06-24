@@ -35,7 +35,7 @@ permalink: /partners/
 ![logo](/assets/logos/ibs.svg) | Population Ecology Research Unit, [Mammal Research Institute, Polish Academy of Sciences (MRI PAS)](https://ibs.bialowieza.pl/en/institute/about-the-institute/) | Poland
 ![logo](/assets/logos/unifi.png) | [Department of Biology](https://www.bio.unifi.it/), University of Florence | Italy
 ![logo](/assets/logos/uclm.png) | [Institute for Game and Wildlife Research (IREC)](https://www.irec.es/en/), University of Castilla-LaMancha | Spain
-![logo](/assets/logos/slu.png) | [Department of Wildlife, Fish and Duration Environmental Studies](https://www.slu.se/en/departments/wildlife-fish-environmental-studies/), Swedish University of Agricultural Sciences (SLU) | Sweden
+![logo](/assets/logos/slu.png) | [Department of Wildlife, Fish, and Environmental Studies](https://www.slu.se/en/departments/wildlife-fish-environmental-studies/), Swedish University of Agricultural Sciences (SLU) | Sweden
 ![logo](/assets/logos/upr.png) | [Faculty of Mathematics, Natural Sciences and Information Technology (FAMNIT)](https://www.famnit.upr.si/en), University of Primorska | Slovenia
 ![logo](/assets/logos/fvo.png) | [Faculty of Environmental Protection](https://fvo.si/en/) | Slovenia
 ![logo](/assets/logos/uni-lj.png) | [Biotechnical Faculty](https://www.bf.uni-lj.si/en/), University of Ljubljana | Slovenia
