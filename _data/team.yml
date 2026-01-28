@@ -40,7 +40,7 @@
 - name: Francesca Cagnacci
   role:
   image: /assets/images/francesca-cagnacci.jpg
-  description: Animal Ecology Unit, Research and Innovation Centre, Edmund Mach Foundation
+  description: Edmund Mach Foundation
   orcid: 0000-0002-4954-9980
   email: francesca.cagnacci@fmach.it
   researchgate: Francesca-Cagnacci
@@ -76,7 +76,7 @@
 - name: Elham Ebrahimi
   role:
   image: /assets/images/elham-ebrahimi.jpg
-  description: Department of Environmental Sciences, Wageningen University & Research (WUR)
+  description: Wageningen University & Research (WUR)
   orcid: 0000-0001-5191-9832
   email: Elham.Ebrahimi@wur.nl
   researchgate: Elham-Ebrahimi-6
@@ -201,7 +201,7 @@
 - name: Federico Ossi
   role:
   image: /assets/images/federico-ossi.png
-  description: Animal Ecology Unit, Research and Innovation Centre, Edmund Mach Foundation
+  description: Edmund Mach Foundation
   orcid: 0000-0001-9004-9649
   email: federico.ossi@fmach.it
   researchgate: Federico-Ossi
