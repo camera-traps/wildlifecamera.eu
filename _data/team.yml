@@ -244,8 +244,13 @@
   email: francesco.rovero@unifi.it
   researchgate: Francesco-Rovero-2
 
-# - name: Marco Salvatori
-#   description: University of Firenze
+- name: Marco Salvatori
+  role: 
+  image: /assets/images/marco-salvatori.jpg
+  description: University of Florence & [MUSE](https://www.muse.it/)
+  orcid: 0000-0001-5491-4797
+  email: marco.salvatori@unifi.it
+  researchgate: Marco-Salvatori
 
 # - name: Rasmus Sørensen
 #   description: University of Inland Norway (INN)
