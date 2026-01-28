@@ -38,6 +38,7 @@
 #   description: University of Primorska
 
 - name: Francesca Cagnacci
+  role:
   image: /assets/images/francesca-cagnacci.jpg
   description: Animal Ecology Unit, Research and Innovation Centre, Edmund Mach Foundation
   orcid: 0000-0002-4954-9980
@@ -50,6 +51,7 @@
 #   description: Research Institute for Nature and Forest (INBO)
 
 - name: Simon Chamaillé-Jammes
+  role: WP6
   image: /assets/images/simon-chamaille.jpeg
   description: Centre for Functional Ecology and Evolution (CEFE, CNRS)
   orcid: 0000-0003-0505-6620
@@ -72,6 +74,7 @@
   github: peterdesmet
 
 - name: Elham Ebrahimi
+  role:
   image: /assets/images/elham-ebrahimi.jpg
   description: Department of Environmental Sciences, Wageningen University & Research (WUR)
   orcid: 0000-0001-5191-9832
@@ -96,6 +99,7 @@
   linkedin: magali-frauendorf-80a696a8
 
 - name: Olivier Gimenez
+  role:
   image: /assets/images/olivier-gimenez.jpg
   description: Centre for Functional Ecology and Evolution (CEFE, CNRS)
   orcid: 0000-0001-7001-5142
@@ -109,6 +113,7 @@
 #   description: University of Inland Norway (INN)
 
 - name: Maik Henrich
+  role:
   image: /assets/images/maik-henrich.jpg
   description: Bavarian Forest National Park
   orcid: 0000-0001-5942-1668
@@ -119,6 +124,7 @@
 #   description: Bavarian Forest National Park
 
 - name: Tim Hofmeester
+  role:
   image: /assets/images/tim-hofmeester.jpg
   description: Swedish University of Agricultural Sciences (SLU)
   orcid: 0000-0003-2101-5482
@@ -138,6 +144,7 @@
   github: fabiolaIannarilli
 
 - name: Torfinn Jahren
+  role:
   image: /assets/images/torfinn-jahren.png
   description: University of Inland Norway (INN)
   orcid: 0000-0003-0337-1790
@@ -151,6 +158,7 @@
 #   description: University of Ljubljana
 
 - name: Petra Kaczensky
+  role:
   image: /assets/images/petra-kaczensky.jpg
   description: University of Inland Norway (INN)
   orcid: 0000-0001-5428-1176
@@ -159,6 +167,7 @@
   github: pkaczensky
 
 - name: Yorick Liefting
+  role:
   image: /assets/images/yorick-liefting.jpg
   description: Wageningen University & Research (WUR)
   orcid: 0000-0003-4719-3455
@@ -166,18 +175,21 @@
   researchgate: Yorick-Liefting
 
 - name: Anne Loison
+  role:
   image: /assets/images/anne-loison.jpg
   description: Alpine Ecology Laboratory (LECA, CNRS)
   orcid: 0000-0002-4252-0392
   email: anne.loison@univ-smb.fr
 
 - name: Vincent Miele
+  role: WP6
   image: /assets/images/vincent-miele.jpg
   description: Alpine Ecology Laboratory (LECA, CNRS)
   orcid: 0000-0001-7584-0088
   email: vincent.miele@cnrs.fr
 
 - name: Federico Ossi
+  role:
   image: /assets/images/federico-ossi.png
   description: Animal Ecology Unit, Research and Innovation Centre, Edmund Mach Foundation
   orcid: 0000-0001-9004-9649
@@ -196,6 +208,7 @@
   github: LynnPallemaerts
 
 - name: Stefano Palmero
+  role:
   image: /assets/images/stefano-palmero.jpg
   description: Bavarian Forest National Park
   orcid: 0000-0002-2755-1297
@@ -214,6 +227,7 @@
   github: LienReyserhove
 
 - name: Francesco Rovero
+  role:
   image: /assets/images/francesco-rovero.jpg
   description: University of Florence
   orcid: 0000-0001-6688-1494
@@ -230,6 +244,7 @@
 #   description: University of Castilla-La Mancha
 
 - name: Martin Wikelski
+  role:
   image: /assets/images/martin-wikelski.jpg
   description: Max Planck Institute of Animal Behavior
   orcid: 0000-0002-9790-7025
