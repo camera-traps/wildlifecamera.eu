@@ -16,8 +16,14 @@
 # - name: Alexander Bleasdale
 #   description: Swedish University of Agricultural Sciences (SLU)
 
-# - name: Martijn Bollen
-#   description: Research Institute for Nature and Forest (INBO)
+- name: Martijn Bollen
+  role: WP5
+  image: https://avatars.githubusercontent.com/u/54671352?s=400&u=7f819bd1f1ee10b119588ad270229960ba81a31d&v=4
+  description: Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0002-1621-6258
+  email: martijn.bollen@inbo.be
+  researchgate: Martijn-Bollen
+  github: martijn-bollen
 
 - name: Jakub W. Bubnicki
   role: WP5
@@ -180,8 +186,14 @@
   github: Cagnacci-Lab
   linkedin: federico-ossi-40928635
 
-# - name: Lynn Pallemaerts
-#   description: Research Institute for Nature and Forest (INBO)
+- name: Lynn Pallemaerts
+  role: WP5
+  image: assets/images/lynn-pallemaerts.jpg
+  description: Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0002-5034-5416
+  email: lynn.pallemaerts@inbo.be
+  researchgate: Lynn-Pallemaerts
+  github: LynnPallemaerts
 
 - name: Stefano Palmero
   image: /assets/images/stefano-palmero.jpg
