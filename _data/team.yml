@@ -17,7 +17,7 @@
 #   description: Swedish University of Agricultural Sciences (SLU)
 
 - name: Martijn Bollen
-  role: WP5
+  role: WP5, WP7
   image: https://avatars.githubusercontent.com/u/54671352?s=400&u=7f819bd1f1ee10b119588ad270229960ba81a31d&v=4
   description: Research Institute for Nature and Forest (INBO)
   orcid: 0000-0002-1621-6258
