@@ -15,6 +15,8 @@ Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasi
 
 ## 2025
 
+Angoh SYJ, Brainerd SM, Devineau O, Odden M, **Jahren T** (2025) Landscape factors influencing predation on capercaillie nests by two competing mesopredators: pine marten and red fox. _Wildlife Biology_, e01445. <https://doi.org/10.1002/wlb3.01445>
+
 **Frauendorf M**, **Bubnicki JW**, Ånöstam F, Tynecki P, Wałejko Ł, Cromsigt JP, Widemo F, **Hofmeester TR** (2025) Trapper Citizen Science: an open-source camera trap platform for citizen science in wildlife research and management. _Preprint at ecoevorxiv.org._ <https://doi.org/10.32942/X2G35W>
 
 **Pokorny B**, Flajšman K, Jacob J (Eds.) (2025) 14th European Vertebrate Management Conference: Book of Abstracts. _Faculty of Environmental Protection, Slovenian Forestry Institute, University of Primorska, University of Ljubljana & Julius Kühn Institute (JKI)._ <https://doi.org/10.20315/evmc.2025>
