@@ -8,16 +8,16 @@
   href: /partners/
 - text: Outputs
   menu:
-  - text: Deliverables
-    href: /deliverables/
   - text: Publications
     href: /publications/
+  - text: Outreach
+    href: /outreach/
   - text: Datasets
     href: /datasets/
   - text: Software
     href: /software/
-  - text: Outreach
-    href: /outreach/
+  - text: Deliverables
+    href: /deliverables/
   - text: Logo
     href: /logo/
 - text: Gallery
