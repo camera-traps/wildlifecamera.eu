@@ -254,8 +254,12 @@
   email: st.palmero@gmail.com
   researchgate: Stefano-Palmero-2
 
-# - name: Boštjan Pokorny
-#   description: Faculty of Environmental Protection
+- name: Boštjan Pokorny
+  image: /assets/images/bostjan-pokorny.jpg
+  description: Faculty of Environmental Protection & Slovenian Forestry Institute
+  orcid: 0000-0002-2981-5516
+  email: bostjan.pokorny@fvo.si
+  researchgate: Bostjan-Pokorny
 
 - name: Lien Reyserhove
   role: WP5
