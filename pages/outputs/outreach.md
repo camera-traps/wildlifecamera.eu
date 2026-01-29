@@ -9,15 +9,15 @@ permalink: /outreach/
 
 ## 2026
 
-**Kaczensky P**, Haury L, Bartl P, Dakinbayr U, Tsogtdelger B, Altansukh N (2026) Glimpses into the Secret Life of Wildlife in the Gobi. _StoryMap_. <https://arcg.is/0SXXyK0>
+**Kaczensky P**, Haury L, Bartl P, Dakinbayr U, Tsogtdelger B, Altansukh N (2026) Glimpses into the Secret Life of Wildlife in the Gobi. <https://arcg.is/0SXXyK0> _StoryMap_{:.badge .bg-secondary}
 
 ## 2025
 
-**Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress 2025, Lillehammer, Norway, 1-4 September 2025. _Accepted presentation._
+**Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress 2025, Lillehammer, Norway, 1-4 September 2025. _Accepted presentation_{:.badge .bg-secondary}
 
-Kryštufek B, **Vicente J** (2025) Barriers to optimize integrated One Health. 14th European Vertebrate Management Conference, Ankaran, Slovenia, 12-16 May 2025. _Invited talk._ <http://doi.org/10.20315/evmc.2025.006>
+Kryštufek B, **Vicente J** (2025) Barriers to optimize integrated One Health. 14th European Vertebrate Management Conference, Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.006> _Invited talk_{:.badge .bg-secondary}
 
-**Jerina K**, Bordjan D, Kryštufek B, Ponikvar L (2025) Overlooked giants : edible dormouse as a keystone species of temperate deciduous forests? 14th European Vertebrate Management Conference, Ankaran, Slovenia, 12-16 May 2025. _Accepted presentation._ <https://doi.org/10.20315/evmc.2025.022>
+**Jerina K**, Bordjan D, Kryštufek B, Ponikvar L (2025) Overlooked giants : edible dormouse as a keystone species of temperate deciduous forests? 14th European Vertebrate Management Conference, Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.022> _Accepted presentation_{:.badge .bg-secondary}
 
-Stachowicz I, **Bubnicki J** (2025) TRAPPER: an open-source web application for managing camera trapping and citizen science projects. 14th European Vertebrate Management Conference, Ankaran, Slovenia, 12-16 May 2025. _Poster._ <https://doi.org/10.20315/evmc.2025.143>
+Stachowicz I, **Bubnicki JW** (2025) TRAPPER: an open-source web application for managing camera trapping and citizen science projects. 14th European Vertebrate Management Conference, Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.143> _Poster_{:.badge .bg-secondary}
 
