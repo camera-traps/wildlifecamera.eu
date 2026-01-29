@@ -26,7 +26,7 @@
   github: martijn-bollen
 
 - name: Jakub W. Bubnicki
-  role: WP5
+  role: WP5, WP6
   image: https://avatars.githubusercontent.com/u/2170197?s=400&v=4
   description: Mammal Research Institute, Polish Academy of Sciences (MRI PAS)
   orcid: 0000-0002-2064-3113
@@ -34,8 +34,14 @@
   researchgate: Jakub-Bubnicki
   github: kbubnicki
 
-# - name: Elena Buzan
-#   description: University of Primorska
+- name: Elena Buzan
+  role: WP3
+  image: https://avatars.githubusercontent.com/u/88378118?v=4
+  description: University of Primorska
+  orcid: 0000-0003-0714-5301
+  email: elena.buzan@upr.si
+  researchgate: Elena-Buzan
+  github: ElenaBuzan
 
 - name: Francesca Cagnacci
   role:
