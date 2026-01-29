@@ -13,7 +13,6 @@ permalink: /outreach/
 
 ## 2025
 
-**Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress 2025, Lillehammer, Norway, 1-4 September 2025. _Accepted presentation_{:.badge .bg-secondary}
 **Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
 
 **Vicente J** (2025) Barriers to optimize integrated One Health. 14th European Vertebrate Management Conference ([EVMC 2025](https://evmc.fvo.si/)), Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.006> _Invited talk_{:.badge .bg-secondary}
