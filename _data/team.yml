@@ -140,8 +140,14 @@
   email: Maik.Henrich@npv-bw.bayern.de
   researchgate: Maik-Henrich
 
-# - name: Marco Heurich
-#   description: Bavarian Forest National Park
+- name: Marco Heurich
+  image: /assets/images/marco-heurich.jpg
+  description: Bavarian Forest National Park
+  orcid: 0000-0003-0051-2930
+  email: marco.heurich@npv-bw.bayern.de
+  researchgate: Marco-Heurich
+  twitter: Wild_Ecol_Cons
+  googlescholar: XOuNSyAAAAAJ&hl
 
 - name: Tim Hofmeester
   role:
