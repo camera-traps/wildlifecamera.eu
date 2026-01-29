@@ -11,15 +11,15 @@ permalink: /publications/
 
 ## 2026
 
-Dussert G, Dray S, **Chamaillé-Jammes S**, **Miele V** (2026) Paying Attention to Other Animal Detections Improves Camera Trap Classification Models. _Methods in Ecology and Evolution._ (in press)
-
 Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasio T, Scandura M, Apollonio M, Carvalho J, Torres RT, Pinto N, Ares-Pereira G, Fonseca C, Keuling O, Šprem N, Gavashelis A, Kerdikoshvili N, Shakun V, De Waele V, Licoppe A, Plhal R, Bicho C, Gutiérrez I, Santos J, **Buzan E**, **Pokorny B**, Gačić D, Ertürk A, Soyumert A, Stoyanov S, Gruychev G, Illanas S, Fernandez-Lopez J, Csányi S, Plis K, Podgórski T, Zanet S, Ferroglio E (2026) Mapping wild boar density across Europe: combining spatial models and density estimates. _European Journal of Wildlife Research_. <https://doi.org/10.21203/rs.3.rs-7526029/v1>
 
 ## 2025
 
 Angoh SYJ, Brainerd SM, Devineau O, Odden M, **Jahren T** (2025) Landscape factors influencing predation on capercaillie nests by two competing mesopredators: pine marten and red fox. _Wildlife Biology_, e01445. <https://doi.org/10.1002/wlb3.01445>
 
-**Frauendorf M**, **Bubnicki JW**, Ånöstam F, Tynecki P, Wałejko Ł, Cromsigt JP, Widemo F, **Hofmeester TR** (2025) Trapper Citizen Science: an open-source camera trap platform for citizen science in wildlife research and management. _Preprint at ecoevorxiv.org._ <https://doi.org/10.32942/X2G35W>
+**Frauendorf M**, **Bubnicki JW**, Ånöstam F, Tynecki P, Wałejko Ł, Cromsigt JP, Widemo F, **Hofmeester TR** (2025) Trapper Citizen Science: an open-source camera trap platform for citizen science in wildlife research and management. <!--_Ecological Applications._--> <https://doi.org/10.32942/X2G35W> _Preprint_{:.badge .bg-secondary}
+
+Dussert G, Dray S, **Chamaillé-Jammes S**, **Miele V** (2026) Paying Attention to Other Animal Detections Improves Camera Trap Classification Models. <!--_Methods in Ecology and Evolution._--> <https://doi.org/10.1101/2025.07.15.664849> _Preprint_{:.badge .bg-secondary}
 
 **Pokorny B**, Flajšman K, Jacob J (Eds.) (2025) 14th European Vertebrate Management Conference: Book of Abstracts. _Faculty of Environmental Protection, Slovenian Forestry Institute, University of Primorska, University of Ljubljana & Julius Kühn Institute (JKI)._ <https://doi.org/10.20315/evmc.2025>
 
