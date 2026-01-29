@@ -127,7 +127,7 @@
 
 - name: Yon Halotel
   role: WP3, WP7, WP10
-  image: 
+  image: /assets/images/yon-halotel.jpg
   description: University of Inland Norway (INN)
   orcid: 0009-0006-8914-0107
   email: yon.halotel@gmail.com
