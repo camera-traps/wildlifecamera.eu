@@ -161,8 +161,15 @@
   email: torfinn.jahren@inn.no
   researchgate: Torfinn-Jahren
 
-# - name: Patrick Jansen
-#   description: University of Utrecht & Wageningen University & Research (WUR)
+- name: Patrick A. Jansen
+  role: 
+  image: /assets/images/patrick-jansen.jpg
+  description: Utrecht University (UU)
+  orcid: 0000-0002-4660-0314
+  email: p.a.jansen@uu.nl
+  researchgate: Patrick-Jansen-7
+  bluesky: patrickjansen.bsky.social
+  linkedin: pajansen
 
 # - name: Klemen Jerina
 #   description: University of Ljubljana
