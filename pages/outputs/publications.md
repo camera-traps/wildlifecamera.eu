@@ -11,6 +11,8 @@ permalink: /publications/
 
 ## 2026
 
+Dussert G, Dray S, **Chamaillé-Jammes S**, **Miele V** (2026) Paying Attention to Other Animal Detections Improves Camera Trap Classification Models. _Methods in Ecology and Evolution._ (in press)
+
 Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasio T, Scandura M, Apollonio M, Carvalho J, Torres RT, Pinto N, Ares-Pereira G, Fonseca C, Keuling O, Šprem N, Gavashelis A, Kerdikoshvili N, Shakun V, De Waele V, Licoppe A, Plhal R, Bicho C, Gutiérrez I, Santos J, **Buzan E**, **Pokorny B**, Gačić D, Ertürk A, Soyumert A, Stoyanov S, Gruychev G, Illanas S, Fernandez-Lopez J, Csányi S, Plis K, Podgórski T, Zanet S, Ferroglio E (2026) Mapping wild boar density across Europe: combining spatial models and density estimates. _European Journal of Wildlife Research_. <https://doi.org/10.21203/rs.3.rs-7526029/v1>
 
 ## 2025
