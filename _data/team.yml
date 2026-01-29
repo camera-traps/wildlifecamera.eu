@@ -47,8 +47,14 @@
   linkedin: francesca-cagnacci-b8052025
   github: Cagnacci-Lab
   
-# - name: Jim Casaer
-#   description: Research Institute for Nature and Forest (INBO)
+- name: Jim Casaer
+  role: WP3, WP7, WP8, WP10, WP12, WP13
+  image: /assets/images/jim-casaer.jpg
+  description: Research Institute for Nature and Forest (INBO)
+  orcid: 0000-0001-6788-5876
+  email: jim.casaer@inbo.be
+  researchgate: Jim-Casaer
+  github: jimcasaer
 
 - name: Simon Chamaillé-Jammes
   role: WP6
@@ -220,7 +226,7 @@
   linkedin: federico-ossi-40928635
 
 - name: Lynn Pallemaerts
-  role: WP5
+  role: WP3, WP4
   image: assets/images/lynn-pallemaerts.jpg
   description: Research Institute for Nature and Forest (INBO)
   orcid: 0000-0002-5034-5416
