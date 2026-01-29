@@ -272,6 +272,14 @@
 # - name: Rasmus Sørensen
 #   description: University of Inland Norway (INN)
 
+- name: Lorenzo Seidenari
+  role: WP6
+  image: /assets/images/lorenzo-seidenari.jpg
+  description: University of Florence
+  orcid: 0000-0003-4816-0268
+  email: lorenzo.seidenari@unifi.it
+  researchgate: Lorenzo-Seidenari
+
 # - name: Joaquin Vicente
 #   description: University of Castilla-La Mancha
 
