@@ -11,6 +11,8 @@ permalink: /publications/
 
 ## 2025
 
+**Pokorny B**, Flajšman K, Jacob J (Eds.) (2025) 14th European Vertebrate Management Conference: Book of Abstracts. _Faculty of Environmental Protection, Slovenian Forestry Institute, University of Primorska, University of Ljubljana & Julius Kühn Institute (JKI)._ <https://doi.org/10.20315/evmc.2025>
+
 **Henrich M**, Fiderer C, Klamm A, Schneider A, Ballmann A, Stein J, Kratzer R, Reiner R, Greiner S, Twietmeyer S, Rönitz T, Spicher V, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Camera traps and deep learning enable efficient large-scale density estimation of wildlife in temperate forest ecosystems. _Remote Sensing in Ecology and Conservation_. <https://doi.org/10.1002/rse2.70030>
 
 ## 2024
