@@ -10,10 +10,10 @@ permalink: /software/
 
 ## Data standards
 
-**Desmet P**, **Bubnicki JW**, Camtrap DP Development Team (2024). Camera Trap Data Package (Camtrap DP). Version 1.0.1. <https://camtrap-dp.tdwg.org>
+**Desmet P**, **Bubnicki JW**, Camtrap DP Development Team (2024) Camera Trap Data Package (Camtrap DP). Version 1.0.1. <https://camtrap-dp.tdwg.org>
 
 ## R
 
-**Desmet P**, Govaert S, Huybrechts P, Oldoni D (2024). camtrapdp: Read and Manipulate Camera Trap Data Packages. Version 0.3.1. <https://inbo.github.io/camtrapdp>
+**Desmet P**, Govaert S, Huybrechts P, Oldoni D (2024) camtrapdp: Read and Manipulate Camera Trap Data Packages. Version 0.3.1. <https://inbo.github.io/camtrapdp>
 
-Oldoni D, **Desmet P**, Huybrechts P (2025). camtraptor: Read, Explore and Visualize Camera Trap Data Packages. Version 0.27.0. <https://inbo.github.io/camtraptor>
+Oldoni D, **Desmet P**, Huybrechts P (2025) camtraptor: Read, Explore and Visualize Camera Trap Data Packages. Version 0.27.0. <https://inbo.github.io/camtraptor>

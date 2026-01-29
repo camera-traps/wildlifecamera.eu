@@ -11,8 +11,8 @@ permalink: /deliverables/
 
 ## 2025
 
-**Reyserhove L**, **Desmet P** (2025). [Standards for within-consortia data sharing and database interoperability](/assets/documents/BIG_PICTURE_D3_standards.pdf). BIG_PICTURE project deliverable D3.
+**Reyserhove L**, **Desmet P** (2025) [Standards for within-consortia data sharing and database interoperability](/assets/documents/BIG_PICTURE_D3_standards.pdf). BIG_PICTURE project deliverable D3.
 
 ## 2024
 
-**Bubnicki JW**, **Desmet P**, **Frauendorf M**, **Iannarilli F**, **Linnell J** (2024). [BIG_PICTURE Data Management Plan](/assets/documents/BIG_PICTURE_DMP.pdf). Version 0.1.
+**Bubnicki JW**, **Desmet P**, **Frauendorf M**, **Iannarilli F**, **Linnell J** (2024) [BIG_PICTURE Data Management Plan](/assets/documents/BIG_PICTURE_DMP.pdf). Version 0.1.
