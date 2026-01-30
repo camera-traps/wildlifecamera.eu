@@ -11,7 +11,7 @@ permalink: /outreach/
 
 **Ebrahimi E**, **Jansen P** (2026) camtrapReport: An R package for automating camera-trap data reporting for wildlife monitoring. Netherlands Annual Ecology Meeting ([NAEM 2026](https://www.nern.nl/courses-meetings/netherlands-annual-ecology-meeting)), Lunteren, Netherlands, 10–11 February 2026. _Poster_{:.badge .bg-secondary}
 
-**Chamaillé-Jammes S**, **Deepfaune team** (2026) Faciliter les études par piège photographiques. Salon National des Professionnels de l’Écologie et de la Biodiversité ([AdNatura 2026](https://salon-adnatura.com/)), Montpellier, France, 4-7 February 2026. _Accepted talk_{:.badge .bg-secondary}
+**Chamaillé-Jammes S**, **Deepfaune team** (2026) Faciliter les études par piège photographiques. Salon National des Professionnels de l’Écologie et de la Biodiversité ([AdNatura 2026](https://salon-adnatura.com/)), Montpellier, France, 4-7 February 2026. _Invited talk_{:.badge .bg-secondary}
 
 **Ebrahimi E**, **Jansen P** (2026) camtrapReport: An R Package for Automating Camera-Trap Data Reporting for Wildlife Monitoring. The International Biogeography Society ([TIBS 2026](https://conferences.au.dk/tibs-aarhus-2026)), Aarhus, Denmark, 5-10 January 2026. _Accepted talk_{:.badge .bg-secondary}
 
@@ -23,7 +23,7 @@ permalink: /outreach/
 
 **Vicente J**, Acevedo P, Apollonio M, Blanco-Aguiar J, **Casaer J**, Gavier-Widen D, **Jansen P**, Jori F, Fernández-López J, Keuling O, **Liefting Y**, Rijks J, Scandura M, Smith GC, Plis K, Podgorski T, Zanet S, Ferroglio E & ENETWILD partners and collaborators (2025) The need of a harmonised Europe-wide wildlife monitoring framework able to sustain coordinated transboundary policy. 73rd Annual International Conference of the Wildlife Disease Association ([WDA 2025](https://wda2025.com)), Victoria, Canada, 27 July – 1 August 2025. _Accepted talk_{:.badge .bg-secondary}
 
-**Miele V**, **Deepfaune team** (2025) IA et biodiversité: tour d'horizon / Focus sur le projet DeepFaune. Multidisciplinary Institute in Artificial Intelligence ([MIAI Days](https://miai-cluster.univ-grenoble-alpes.fr/events/miai-days/miai-days-2025-on-june-19-20-2025-1572910.kjsp), Grenoble, France, 19-20 June 2025. _Accepted talk_{:.badge .bg-secondary}
+**Miele V**, **Deepfaune team** (2025) IA et biodiversité: tour d'horizon / Focus sur le projet DeepFaune. Multidisciplinary Institute in Artificial Intelligence ([MIAI Days](https://miai-cluster.univ-grenoble-alpes.fr/events/miai-days/miai-days-2025-on-june-19-20-2025-1572910.kjsp), Grenoble, France, 19-20 June 2025. _Invited talk_{:.badge .bg-secondary}
 
 **Vicente Baños J** (2025) Barriers to optimize integrated One Health. 14th European Vertebrate Management Conference ([EVMC 2025](https://evmc.fvo.si/)), Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.006> _Invited talk_{:.badge .bg-secondary}
 
@@ -39,12 +39,12 @@ García-López V, **Vicente Baños J**, Carro F, Acevedo P, Ertürk A (2025) A c
 
 **Ebrahimi E**, Stubbe A, Dijkhuis LR, de Knegt HJ, **Liefting Y**, **Jansen PA** (2025) Automating camera-trap data reporting for wildlife monitoring. IX European Congress of Mammalogy ([ECM9](https://ecm9.com/)), Patras, Greece, 31 March – 4 April 2025. _Accepted talk_{:.badge .bg-secondary}
 
-**Deepfaune team** (2025) Deepfaune: un logiciel pour automatiser la reconnaissance des espèces dans les images et vidéos de pièges photographiques. Premières Rencontres "Observation et Suivi de la Faune Sauvage", Perpignan, France, 21-22 February 2025. _Accepted talk_{:.badge .bg-secondary}
+**Chamaillé-Jammes S**, **Deepfaune team** (2025) Deepfaune: un logiciel pour automatiser la reconnaissance des espèces dans les images et vidéos de pièges photographiques. Premières Rencontres "Observation et Suivi de la Faune Sauvage", Perpignan, France, 21-22 February 2025. _Invited talk_{:.badge .bg-secondary}
 
-**Deepfaune team** (2025) Faciliter les études par piège photographiques. Agence Régionale de la Biodiversité - Normandie ([ANBDD](https://www.anbdd.fr)), Online, January 2025. _Invited talk_{:.badge .bg-secondary}
+**Chamaillé-Jammes S**, **Deepfaune team** (2025) Faciliter les études par piège photographiques. Agence Régionale de la Biodiversité - Normandie ([ANBDD](https://www.anbdd.fr)), Online, January 2025. _Invited talk_{:.badge .bg-secondary}
 
 ## 2024
 
-Dussert G, **Deepfaune team** (2024) IA et piège photo: comment reconnaître la faune et son comportement de manière automatisée? [ScienceSandwich](https://blog.creamontblanc.org/), Chamonix, France, 3 December 2024. <https://www.youtube.com/watch?v=h2CRYcM490M> _Accepted talk_{:.badge .bg-secondary}
+Dussert G, **Deepfaune team** (2024) IA et piège photo: comment reconnaître la faune et son comportement de manière automatisée? [ScienceSandwich](https://blog.creamontblanc.org/), Chamonix, France, 3 December 2024. <https://www.youtube.com/watch?v=h2CRYcM490M> _Invited talk_{:.badge .bg-secondary}
 
 **Miele V**, **Deepfaune team** (2024) DeepFaune: A journey towards an efficient classifier for the european fauna. [LifeClef 2024](https://www.imageclef.org/LifeCLEF2024), Grenoble, France, 9 September 2024. _Invited talk_{:.badge .bg-secondary}
