@@ -28,3 +28,7 @@ Dussert G, Dray S, **Chamaillé-Jammes S**, **Miele V** (2026) Paying Attention 
 ## 2024
 
 **Bubnicki JW**, Norton B, Baskauf SJ, Bruce T, **Cagnacci F**, **Casaer J**, Churski M, Cromsigt JPGM, Farra SD, Fiderer C, Forrester TD, Hendry H, **Heurich M**, **Hofmeester TR**, **Jansen PA**, Kays R, Kuijper DPJ, **Liefting Y**, **Linnell JDC**, Luskin MS, Mann C, Milotic T, Newman P, Niedballa J, Oldoni D, Ossi F, Robertson T, **Rovero F**, Rowcliffe M, Seidenari L, Stachowicz I, Stowell D, Tobler MW, Wieczorek J, Zimmermann F, **Desmet P** (2024) Camtrap DP: an open standard for the FAIR exchange and archiving of camera trap data. _Remote Sensing in Ecology and Conservation_, 10: 283-295. <https://doi.org/10.1002/rse2.374>
+
+Banič DA, **Pokorny B** (supervisor), **Bužan E** (co-supervisor) (2024) Determination of temporal activity of large mammals in a model area in central Slovenia using camera traps. _Koper, University of Primorska_, 46 pp (in Slovenian). <http://hdl.handle.net/20.500.12556/RUP-20518> _Master thesis_{:.badge .bg-secondary}
+
+Penko U, **Pokorny B** (supervisor), Duniš L (co-supervisor) (2024) Assessment of the population density of wild boar in the area of Brkini and Čičarija using camera traps. _Koper, University of Primorska_, 41 pp (in Slovenian). <http://hdl.handle.net/20.500.12556/RUP-20683> _Diploma thesis_{:.badge .bg-secondary}
