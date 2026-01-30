@@ -21,6 +21,8 @@ permalink: /outreach/
 
 **Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
 
+**Vicente J**, Acevedo P, Apollonio M, Blanco-Aguiar J, **Casaer J**, Gavier-Widen D, **Jansen P**, Jori F, Fernández-López J, Keuling O, **Liefting Y**, Rijks J, Scandura M, Smith GC, Plis K, Podgorski T, Zanet S, Ferroglio E & ENETWILD partners and collaborators (2025) The need of a harmonised Europe-wide wildlife monitoring framework able to sustain coordinated transboundary policy. 73rd Annual International Conference of the Wildlife Disease Association ([WDA 2025](https://wda2025.com)), Victoria, Canada, 27 July – 1 August 2025. _Accepted talk_{:.badge .bg-secondary}
+
 **Miele V**, **Deepfaune team** (2025) IA et biodiversité: tour d'horizon / Focus sur le projet DeepFaune. Multidisciplinary Institute in Artificial Intelligence ([MIAI Days](https://miai-cluster.univ-grenoble-alpes.fr/events/miai-days/miai-days-2025-on-june-19-20-2025-1572910.kjsp), Grenoble, France, 19-20 June 2025. _Accepted talk_{:.badge .bg-secondary}
 
 **Vicente Baños J** (2025) Barriers to optimize integrated One Health. 14th European Vertebrate Management Conference ([EVMC 2025](https://evmc.fvo.si/)), Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.006> _Invited talk_{:.badge .bg-secondary}

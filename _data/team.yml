@@ -293,8 +293,12 @@
   email: lorenzo.seidenari@unifi.it
   researchgate: Lorenzo-Seidenari
 
-# - name: Joaquin Vicente
-#   description: University of Castilla-La Mancha
+- name: Joaquin Vicente
+  image: /assets/images/joaquin-vicente.jpg
+  description: University of Castilla-La Mancha 
+  orcid: 0000-0001-8416-3672
+  email: joaquin.vicente@uclm.es
+  researchgate: Joaquin-Vicente
 
 - name: Martin Wikelski
   role:
