@@ -19,6 +19,8 @@ permalink: /outreach/
 
 ## 2025
 
+**Frauendorf M**, Ånöstam Å, **Henrich M**, Widemo F, Cromsigt J, **Heurich M**, Fiderer C,  Rönitz T, Peters A, **Hofmeester T** (2025) Using computer vision to speed up estimation of deer species reproduction from camera traps. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
+
 **Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
 
 **Vicente J**, Acevedo P, Apollonio M, Blanco-Aguiar J, **Casaer J**, Gavier-Widen D, **Jansen P**, Jori F, Fernández-López J, Keuling O, **Liefting Y**, Rijks J, Scandura M, Smith GC, Plis K, Podgorski T, Zanet S, Ferroglio E & ENETWILD partners and collaborators (2025) The need of a harmonised Europe-wide wildlife monitoring framework able to sustain coordinated transboundary policy. 73rd Annual International Conference of the Wildlife Disease Association ([WDA 2025](https://wda2025.com)), Victoria, Canada, 27 July – 1 August 2025. _Accepted talk_{:.badge .bg-secondary}
