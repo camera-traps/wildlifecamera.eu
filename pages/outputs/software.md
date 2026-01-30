@@ -30,6 +30,18 @@ Camtrapdp is an R package to read and manipulate Camera Trap Data Packages (Camt
 [Documentation](https://inbo.github.io/camtrapdp){:.btn .btn-sm .btn-primary}
 [Source code](https://github.com/inbo/camtrapdp){:.btn .btn-sm .btn-light}
 
+<!--
+## camtrapReport
+
+CamtrapReport is an R package to explore and process camera trap data and automate reporting for wildlife monitoring.
+
+> **Ebrahimi E**, **Jansen P** (2026) camtrapReport: Cameratrap Report Generator. R package version TODO. <TODO>
+
+{:.btn-group}
+[Documentation](https://spatialecology.github.io/camtrapReport/){:.btn .btn-sm .btn-primary}
+[Source code](https://github.com/spatialecology/camtrapReport){:.btn .btn-sm .btn-light}
+-->
+
 ## camtraptor
 
 Camtraptor is an R package to read, explore and visualize Camera Trap Data Packages (Camtrap DP). [Camtrap DP](https://camtrap-dp.tdwg.org) is a community developed data exchange format for this type of data. With camtraptor you can read and filter data, create overviews of observed species, relative abundance or effort, and plot these data on a map.
