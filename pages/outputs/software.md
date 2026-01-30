@@ -40,6 +40,16 @@ Camtraptor is an R package to read, explore and visualize Camera Trap Data Packa
 [Documentation](https://inbo.github.io/camtraptor){:.btn .btn-sm .btn-primary}
 [Source code](https://github.com/inbo/camtraptor){:.btn .btn-sm .btn-light}
 
+## Deepfaune
+
+Deepfaune is both a set of AI-models and a software designed to automatize the identification of species in camera-trap pictures or videos.
+
+> Miele V, Dussert G, Chamaillé-Jammes S, et al. (2025) Deepfaune. Version 1.4.
+
+{:.btn-group}
+[Website](https://www.deepfaune.cnrs.fr/en/){:.btn .btn-sm .btn-primary}
+[Source code](https://plmlab.math.cnrs.fr/deepfaune/software/){:.btn .btn-sm .btn-light}
+
 ## Trapper
 
 TRAPPER is a scalable, open-source and AI-driven camera trap data infrastructure for professional and citizen-science projects.
