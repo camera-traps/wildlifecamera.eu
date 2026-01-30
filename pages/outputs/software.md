@@ -8,7 +8,15 @@ toc: true
 permalink: /software/
 ---
 
-<!-- ## Agouti -->
+## Agouti
+
+Agouti is an all-in-one data management platform that helps organizations and professionals efficiently manage, process, standardize, and securely archive wildlife camera trap data.
+
+> **Casaer J**, Milotic T, **Liefting Y**, **Desmet P**, **Jansen P** (2019) Agouti: A platform for processing and archiving of camera trap images. _Biodiversity Information Science and Standards_. <https://doi.org/10.3897/biss.3.46690>
+
+{:.btn-group}
+[Website](https://agouti.eu/){:.btn .btn-sm .btn-primary}
+[API](https://api.agouti.eu/docs/){:.btn .btn-sm .btn-light}
 
 ## Camtrap DP
 
