@@ -19,7 +19,7 @@ permalink: /outreach/
 
 ## 2025
 
-**Frauendorf M**, Ånöstam Å, **Henrich M**, Widemo F, Cromsigt J, **Heurich M**, Fiderer C,  Rönitz T, Peters A, **Hofmeester T** (2025) Using computer vision to speed up estimation of deer species reproduction from camera traps. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
+**Frauendorf M**, Ånöstam F, **Henrich M**, Widemo F, Cromsigt J, **Heurich M**, Fiderer C,  Rönitz T, Peters A, **Hofmeester T** (2025) Using computer vision to speed up estimation of deer species reproduction from camera traps. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
 
 **Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
 
