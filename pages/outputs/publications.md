@@ -31,4 +31,4 @@ Dussert G, Dray S, **Chamaillé-Jammes S**, **Miele V** (2026) Paying Attention 
 
 Banič DA, **Pokorny B** (supervisor), **Bužan E** (co-supervisor) (2024) Determination of temporal activity of large mammals in a model area in central Slovenia using camera traps. _Koper, University of Primorska_, 46 pp (in Slovenian). <http://hdl.handle.net/20.500.12556/RUP-20518> _Master thesis_{:.badge .bg-secondary}
 
-Penko U, **Pokorny B** (supervisor), Duniš L (co-supervisor) (2024) Assessment of the population density of wild boar in the area of Brkini and Čičarija using camera traps. _Koper, University of Primorska_, 41 pp (in Slovenian). <http://hdl.handle.net/20.500.12556/RUP-20683> _Diploma thesis_{:.badge .bg-secondary}
+Penko U, **Pokorny B** (supervisor), **Duniš L** (co-supervisor) (2024) Assessment of the population density of wild boar in the area of Brkini and Čičarija using camera traps. _Koper, University of Primorska_, 41 pp (in Slovenian). <http://hdl.handle.net/20.500.12556/RUP-20683> _Diploma thesis_{:.badge .bg-secondary}
