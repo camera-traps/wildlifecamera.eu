@@ -306,6 +306,14 @@
   email: lorenzo.seidenari@unifi.it
   researchgate: Lorenzo-Seidenari
 
+- name: Žiga Velkavrh
+  role: WP3
+  image: /assets/images/ziga-velkavrh.jpg
+  description: University of Primorska
+  orcid: 0000-0003-0764-7838
+  email: ziga.velkavrh@upr.si
+  researchgate: Ziga-Velkavrh
+
 - name: Joaquin Vicente
   image: /assets/images/joaquin-vicente.jpg
   description: University of Castilla-La Mancha 
