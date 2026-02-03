@@ -85,6 +85,13 @@
   bluesky: peterdesmet.com
   github: peterdesmet
 
+- name: Luka Duniš
+  role: WP3
+  image: /assets/images/luka-dunis.jpg
+  description: University of Primorska
+  orcid: 0000-0002-0905-1686
+  email: luka.dunis@upr.si
+
 - name: Elham Ebrahimi
   role:
   image: /assets/images/elham-ebrahimi.jpg
