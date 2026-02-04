@@ -52,3 +52,19 @@ García-López V, **Vicente Baños J**, Carro F, Acevedo P, Ertürk A (2025) A c
 Dussert G, **Deepfaune team** (2024) IA et piège photo: comment reconnaître la faune et son comportement de manière automatisée? [ScienceSandwich](https://blog.creamontblanc.org/), Chamonix, France, 3 December 2024. <https://www.youtube.com/watch?v=h2CRYcM490M> _Invited talk_{:.badge .bg-secondary}
 
 **Miele V**, **Deepfaune team** (2024) DeepFaune: A journey towards an efficient classifier for the european fauna. [LifeClef 2024](https://www.imageclef.org/LifeCLEF2024), Grenoble, France, 9 September 2024. _Invited talk_{:.badge .bg-secondary}
+
+**Rovero F**, **Iannarilli F** (2024) Camera trapping in Europe: current status and future perspectives. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
+
+Odden J, Thorsen NH, **Linnell J**, **Hofmeester T** (2024) SCANDCAM: challenges and lesson learned from 12 years of lynx and wildlife monitoring in Scandinavia. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
+
+Greco I, Salvatori M, **Rovero F** (2024) Camera-trapping protocols and the potential for large-scale and long-term monitoring programmes. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
+
+**Bubnicki J**, **Desmet P** (2024) Camtrap DP: enabling local-to-global scale data interoperability among camera trapping data producers and users. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
+
+**Cagnacci F** (2024) Triggering a change: perspectives for collaborative science, conservation and policy based on camera trapping. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
+
+Roilo S, **Hofmeester T**, **Frauendorf M**, Widén A, Cord A (2024) The untapped potential of camera traps for farmland biodiversity monitoring. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
+
+Thorsen NH, Tvete KO, Bischof R, Odden J, **Linnell J**, Mattisson J, Johanson Ö, Weingarth-Dachs K, Zimmermann F (2024) Visual identification of Eurasian lynx (Lynx lynx) individuals from camera trap images. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
+
+Nowak K, Kuberski Ł, **Bubnicki J**, Selva N (2024) Cumulative effects of Poland’s state border infrastructure and associated human activities in Białowieża Forest. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Accepted talk_{:.badge .bg-secondary}
