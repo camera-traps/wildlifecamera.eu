@@ -44,7 +44,7 @@
   github: ElenaBuzan
 
 - name: Francesca Cagnacci
-  role:
+  role: WP5, WP7, WP8, WP9, W10, WP11
   image: /assets/images/francesca-cagnacci.jpg
   description: Edmund Mach Foundation
   orcid: 0000-0002-4954-9980
