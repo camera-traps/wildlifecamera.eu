@@ -26,7 +26,7 @@
   github: martijn-bollen
 
 - name: Jakub W. Bubnicki
-  role: WP5, WP6
+  role: WP5 (coordinator), WP6
   image: https://avatars.githubusercontent.com/u/2170197?s=400&v=4
   description: Mammal Research Institute, Polish Academy of Sciences (MRI PAS)
   orcid: 0000-0002-2064-3113
@@ -35,7 +35,7 @@
   github: kbubnicki
 
 - name: Elena Buzan
-  role: WP3
+  role: WP3 (coordinator)
   image: https://avatars.githubusercontent.com/u/88378118?v=4
   description: University of Primorska
   orcid: 0000-0003-0714-5301
@@ -63,7 +63,7 @@
   github: jimcasaer
 
 - name: Simon Chamaillé-Jammes
-  role: WP6
+  role: WP6 (coordinator)
   image: /assets/images/simon-chamaille.jpeg
   description: Centre for Functional Ecology and Evolution (CEFE, CNRS)
   orcid: 0000-0003-0505-6620
@@ -76,7 +76,7 @@
 #   description: Norwegian Institute for Nature Research (NINA)
 
 - name: Peter Desmet
-  role: WP5
+  role: WP5 (coordinator)
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
   description: Research Institute for Nature and Forest (INBO)
   orcid: 0000-0002-8442-8025
@@ -104,6 +104,7 @@
   github: spatialecology
 
 # - name: Floor Fleurke
+#   role: WP1 (coordinator)
 #   description: Tilburg University
 
 - name: Magali Frauendorf
@@ -118,7 +119,7 @@
   linkedin: magali-frauendorf-80a696a8
 
 - name: Olivier Gimenez
-  role: WP7, WP8, WP9
+  role: WP7, WP8, WP9 # Coordinator for all?
   image: /assets/images/olivier-gimenez.jpg
   description: Centre for Functional Ecology and Evolution (CEFE, CNRS)
   orcid: 0000-0001-7001-5142
@@ -154,7 +155,7 @@
   researchgate: Maik-Henrich
 
 - name: Marco Heurich
-  role: 
+  role: # WP10 coordinator?
   image: /assets/images/marco-heurich.jpg
   description: Bavarian Forest National Park
   orcid: 0000-0003-0051-2930
@@ -164,7 +165,7 @@
   googlescholar: XOuNSyAAAAAJ&hl
 
 - name: Tim Hofmeester
-  role:
+  role: WP7, WP8, WP9, WP10, WP11 (coordinator)
   image: /assets/images/tim-hofmeester.jpg
   description: Swedish University of Agricultural Sciences (SLU)
   orcid: 0000-0003-2101-5482
@@ -175,7 +176,7 @@
   linkedin: tim-hofmeester
 
 - name: Fabiola Iannarilli
-  role: WP8
+  role: WP8 # Coordinator for WP7, WP8, WP9?
   image: https://avatars.githubusercontent.com/u/22197407?v=4
   description: Max Planck Institute of Animal Behavior
   orcid: 0000-0002-7018-3557
@@ -184,7 +185,7 @@
   github: fabiolaIannarilli
 
 - name: Torfinn Jahren
-  role:
+  role: WP3, WP13 # Coordinator for both?
   image: /assets/images/torfinn-jahren.png
   description: University of Inland Norway (INN)
   orcid: 0000-0003-0337-1790
@@ -192,7 +193,7 @@
   researchgate: Torfinn-Jahren
 
 - name: Patrick A. Jansen
-  role: 
+  role: # WP12 (coordinator)?
   image: /assets/images/patrick-jansen.jpg
   description: Utrecht University (UU)
   orcid: 0000-0002-4660-0314
@@ -214,7 +215,7 @@
   github: pkaczensky
 
 - name: Yorick Liefting
-  role: WP6
+  role: WP6 (coordinator)
   image: /assets/images/yorick-liefting.jpg
   description: Wageningen University & Research (WUR)
   orcid: 0000-0003-4719-3455
@@ -318,7 +319,7 @@
   researchgate: Ziga-Velkavrh
 
 - name: Joaquin Vicente
-  role: 
+  role: # WP10 coordinator?
   image: /assets/images/joaquin-vicente.jpg
   description: University of Castilla-La Mancha 
   orcid: 0000-0001-8416-3672
