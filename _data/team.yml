@@ -118,7 +118,7 @@
   linkedin: magali-frauendorf-80a696a8
 
 - name: Olivier Gimenez
-  role:
+  role: WP7, WP8, WP9
   image: /assets/images/olivier-gimenez.jpg
   description: Centre for Functional Ecology and Evolution (CEFE, CNRS)
   orcid: 0000-0001-7001-5142
@@ -146,7 +146,7 @@
   email: yon.halotel@gmail.com
 
 - name: Maik Henrich
-  role:
+  role: WP6, WP7, WP9, WP10, WP11
   image: /assets/images/maik-henrich.jpg
   description: Bavarian Forest National Park
   orcid: 0000-0001-5942-1668
@@ -263,14 +263,14 @@
   researchgate: Stefano-Palmero-2
 
 - name: Zarja Platovšek
-  role: 
+  role: WP10, WP11, WP12
   image: /assets/images/zarja-platovsek.jpg
   description: Faculty of Environmental Protection
   orcid: 0009-0003-9112-3646
   email: zarja.platovsek@fvo.si
 
 - name: Boštjan Pokorny
-  role: 
+  role: WP3, WP10, WP11, WP12
   image: /assets/images/bostjan-pokorny.jpg
   description: Faculty of Environmental Protection & Slovenian Forestry Institute
   orcid: 0000-0002-2981-5516
