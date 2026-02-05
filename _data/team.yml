@@ -93,7 +93,7 @@
   email: luka.dunis@upr.si
 
 - name: Elham Ebrahimi
-  role:
+  role: WP6, WP7, WP9
   image: /assets/images/elham-ebrahimi.jpg
   description: Wageningen University & Research (WUR)
   orcid: 0000-0001-5191-9832
