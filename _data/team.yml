@@ -13,8 +13,14 @@
 # - name: Sunniva Bahlk
 #   description: Norwegian Institute for Nature Research (NINA)
 
-# - name: Alexander Bleasdale
-#   description: Swedish University of Agricultural Sciences (SLU)
+- name: Alexander Bleasdale
+  role: WP11
+  image: https://avatars.githubusercontent.com/u/259381206?v=4
+  description: Swedish University of Agricultural Sciences (SLU)
+  orcid: 0000-0003-3536-6267
+  email: alexander.bleasdale@slu.se
+  researchgate: Alexander-Bleasdale
+  github: ajbleasdale
 
 - name: Martijn Bollen
   role: WP5, WP7
@@ -71,9 +77,6 @@
   researchgate: Simon-Chamaille-Jammes
   bluesky: chamaillejammes.bsky.social
   linkedin: simon-chamaillé-b6aa10296
-
-# - name: Benjamin Cretois
-#   description: Norwegian Institute for Nature Research (NINA)
 
 - name: Peter Desmet
   role: WP5 (coordinator)
