@@ -21,6 +21,8 @@ permalink: /outreach/
 
 ## 2025
 
+**Frauendorf M** (2025) The potential of camera traps to monitor wildlife populations and the possibilities with AI (in Swedish). Sveriges Vildnad, Öster Malma, Sweden, 28 November 2025. _Invited talk_{:.badge .bg-secondary}
+
 **Hofmeester T** (2025) Where, when, and how many? Camera traps show us the wildlife in the forest (in Swedish). Sveriges Vildnad, Öster Malma, Sweden, 28 November 2025. _Invited talk_{:.badge .bg-secondary}
 
 **Cagnacci F**, **Iannarilli F**, Scandura M (2024) Eurocam, Snapshot & EoW: towards an integrated camera trapping monitoring in Europe. XVI Eurodeer & IX Euroboar meeting, Montevecchio, Italy, 2-6 September 2025. _Accepted talk_{:.badge .bg-secondary}
