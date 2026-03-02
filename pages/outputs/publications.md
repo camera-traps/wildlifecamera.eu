@@ -15,7 +15,7 @@ Arseni M, Brivio F (supervisor), **Vicente J** (co-supervisor), Scandura M (co-s
 
 Boer-Cueva M, Bombieri G, Centomo E, Partel P, Dorigatti E, Ferraro E, Greco I, **Rovero F**, **Salvatori M** (2026) Hunting and Outdoor Recreation Affect Large Herbivore Activity Patterns More Than Natural Predators in a Human-Dominated Landscape. _Ecology and Evolution_ 16 (2): e73033. <https://doi.org/10.1002/ece3.73033>
 
-Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasio T, Scandura M, Apollonio M, Carvalho J, Torres RT, Pinto N, Ares-Pereira G, Fonseca C, Keuling O, Šprem N, Gavashelis A, Kerdikoshvili N, Shakun V, De Waele V, Licoppe A, Plhal R, Bicho C, Gutiérrez I, Santos J, **Buzan E**, **Pokorny B**, Gačić D, Ertürk A, Soyumert A, Stoyanov S, Gruychev G, Illanas S, Fernandez-Lopez J, Csányi S, Plis K, Podgórski T, Zanet S, Ferroglio E (2026) Mapping wild boar density across Europe: combining spatial models and density estimates. _European Journal of Wildlife Research_. <https://doi.org/10.21203/rs.3.rs-7526029/v1>
+Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasio T, Scandura M, Apollonio M, Carvalho J, Torres RT, Pinto N, Ares-Pereira G, Fonseca C, Keuling O, Šprem N, Gavashelis A, Kerdikoshvili N, Shakun V, De Waele V, Licoppe A, Plhal R, Bicho C, Gutiérrez I, Santos J, **Buzan E**, **Pokorny B**, Gačić D, Ertürk A, Soyumert A, Stoyanov S, Gruychev G, Illanas S, Fernandez-Lopez J, Csányi S, Plis K, Podgórski T, Zanet S, Ferroglio E (2026) Mapping wild boar density across Europe: combining spatial models and density estimates. _European Journal of Wildlife Research_. <https://doi.org/10.1007/s10344-026-02059-x>
 
 ## 2025
 
