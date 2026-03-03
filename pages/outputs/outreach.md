@@ -9,6 +9,8 @@ permalink: /outreach/
 
 ## 2026
 
+**Iannarilli F** (2026) Gestione e condivisione dei dati da fototrappola: Approcci e strumenti per studi su piccola e larga scala (Management and sharing of camera trap data: Approaches and tools for studies at small and large scale). [GIORNATE TECNICHE DEL GLAMM – IV Edizione](https://www.mammiferi.org/giornate-tecniche-del-glamm-iv-edizione/), Bologna, Italy, 12-13 February 2026. _Invited talk_{:.badge .bg-secondary}
+
 **Ebrahimi E**, **Jansen P** (2026) camtrapReport: An R package for automating camera-trap data reporting for wildlife monitoring. Netherlands Annual Ecology Meeting ([NAEM 2026](https://www.nern.nl/courses-meetings/netherlands-annual-ecology-meeting)), Lunteren, Netherlands, 10–11 February 2026. _Poster_{:.badge .bg-secondary}
 
 **Hofmeester T** (2026) Automating the dataflow from sensor to wildlife management. Impacts on reproducibility and trust. Swedish Biodiversity Data Infrastructure Days ([SBDI Days 2026](https://biodiversitydata.se/sbdi-days-2026)), Stockholm, Sweden, 9-11 February 2026. _Invited talk_{:.badge .bg-secondary}
@@ -54,6 +56,8 @@ Stachowicz I, **Bubnicki JW** (2025) TRAPPER: an open-source web application for
 Blanco-Aguiar JA, Guerrasio T, Carniato D, Acevedo P, Apollonio M, Arakelyan M, Arnon A, Beatham S, Belova O, Berde L, Berdión O, Bleier N, Burgui Oltra JM, **Bužan E**, Carro F, Carvalho J, **Casaer J**, Colomer J, Dijkhuis L, **Duniš L**, Ertürk A, Dal Mas M, Ferroglio E, Forti A, Gačić D, Gavashelishvili A, Gomez C, Hillström L, Janječić M, Ježek M, Keuling O, Lefranc H, Licoppe A, **Liefting Y**, Martinez-Carrasco C, Olano I, Palencia P, **Platovšek Z**, Plis K, Podgórski T, **Pokorny B**, Rosell C, Rowcliffe M, Santos J, Smith G, Sola de la Torre J, Soriguer R, Stoyanov S, Šprem N, Zanet S, **Vicente Baños J**, Scandura M (2025) The observatory approach: continental-scale wildlife density estimation in Europe and more. 14th European Vertebrate Management Conference ([EVMC 2025](https://evmc.fvo.si/)), Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.075> _Accepted talk_{:.badge .bg-secondary}
 
 García-López V, **Vicente Baños J**, Carro F, Acevedo P, Ertürk A (2025) A camera trap protocol to determine micromammals abundance to support epidemiological studies. 14th European Vertebrate Management Conference ([EVMC 2025](https://evmc.fvo.si/)), Ankaran, Slovenia, 12-16 May 2025. <https://doi.org/10.20315/evmc.2025.092> _Accepted talk_{:.badge .bg-secondary}
+
+**Iannarilli F**, Quetting M, Wikelski M (2025) Zooming on urban predators: Domestic cats and their interactions with mammal and bird communities in urban areas. IX European Congress of Mammalogy ([ECM9](https://ecm9.com/)), Patras, Greece, 31 March – 4 April 2025. _Accepted talk_{:.badge .bg-secondary}
 
 **Ebrahimi E**, Stubbe A, Dijkhuis LR, de Knegt HJ, **Liefting Y**, **Jansen PA** (2025) Automating camera-trap data reporting for wildlife monitoring. IX European Congress of Mammalogy ([ECM9](https://ecm9.com/)), Patras, Greece, 31 March – 4 April 2025. _Accepted talk_{:.badge .bg-secondary}
 
