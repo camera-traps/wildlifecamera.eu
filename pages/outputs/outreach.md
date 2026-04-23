@@ -27,8 +27,6 @@ permalink: /outreach/
 
 **Hofmeester T** (2025) Where, when, and how many? Camera traps show us the wildlife in the forest (in Swedish). Sveriges Vildnad, Öster Malma, Sweden, 28 November 2025. _Invited talk_{:.badge .bg-secondary}<!-- stakeholders -->
 
-**Cagnacci F**, **Iannarilli F**, Scandura M (2024) Eurocam, Snapshot & EoW: towards an integrated camera trapping monitoring in Europe. XVI Eurodeer & IX Euroboar meeting, Montevecchio, Italy, 2-6 September 2025. _Accepted talk_{:.badge .bg-secondary}
-
 **Frauendorf M**, Ånöstam F, **Henrich M**, Widemo F, Cromsigt J, **Heurich M**, Fiderer C,  Rönitz T, Peters A, **Hofmeester T** (2025) Using computer vision to speed up estimation of deer species reproduction from camera traps. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
 
 **Henrich M**, Fiderer C, **Chamaillé-Jammes S**, **Miele V**, Dussert G, **Heurich M** (2025) Evaluating AI algorithms to accelerate population density estimation of unmarked species ​based on camera trapping data. International Wildlife Congress ([IWC 2025](https://www.iwc2025.com/)), Lillehammer, Norway, 1-4 September 2025. _Accepted talk_{:.badge .bg-secondary}
@@ -72,6 +70,8 @@ García-López V, **Vicente Baños J**, Carro F, Acevedo P, Ertürk A (2025) A c
 Dussert G, **Deepfaune team** (2024) IA et piège photo: comment reconnaître la faune et son comportement de manière automatisée? [ScienceSandwich](https://blog.creamontblanc.org/), Chamonix, France, 3 December 2024. <https://www.youtube.com/watch?v=h2CRYcM490M> _Invited talk_{:.badge .bg-secondary}<!-- stakeholders -->
 
 **Miele V**, **Deepfaune team** (2024) DeepFaune: A journey towards an efficient classifier for the european fauna. [LifeClef 2024](https://www.imageclef.org/LifeCLEF2024), Grenoble, France, 9 September 2024. _Invited talk_{:.badge .bg-secondary}
+
+**Cagnacci F**, **Iannarilli F**, Scandura M (2024) Eurocam, Snapshot & EoW: towards an integrated camera trapping monitoring in Europe. XVI Eurodeer & IX Euroboar meeting, Montevecchio, Italy, 1-7 September 2024. _Accepted talk_{:.badge .bg-secondary}
 
 **Rovero F**, **Iannarilli F** (2024) Camera trapping in Europe: current status and future perspectives. 7th European Congress of Conservation Biology ([ECCB 2024](https://eccb2024.eu)), Bologna, Italy, 17-21 June 2024. _Invited talk_{:.badge .bg-secondary}
 
