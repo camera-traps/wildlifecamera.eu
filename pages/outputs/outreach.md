@@ -9,6 +9,8 @@ permalink: /outreach/
 
 ## 2026
 
+**Desmet P** (2026) How a camera trap data standard enabled an ecosystem of interoperable tools. [BioMonWeek](https://biomonweek.eu/), Montpellier, France, 4-8 May 2026. [View presentation](https://speakerdeck.com/peterdesmet/how-a-camera-trap-data-standard-enabled-an-ecosystem-of-interoperable-tools). _Accepted talk_{:.badge .bg-secondary}
+
 **Iannarilli F** (2026) Gestione e condivisione dei dati da fototrappola: Approcci e strumenti per studi su piccola e larga scala (Management and sharing of camera trap data: Approaches and tools for studies at small and large scale). [GIORNATE TECNICHE DEL GLAMM – IV Edizione](https://www.mammiferi.org/giornate-tecniche-del-glamm-iv-edizione/), Bologna, Italy, 12-13 February 2026. _Invited talk_{:.badge .bg-secondary}
 
 **Ebrahimi E**, **Jansen P** (2026) camtrapReport: An R package for automating camera-trap data reporting for wildlife monitoring. Netherlands Annual Ecology Meeting ([NAEM 2026](https://www.nern.nl/courses-meetings/netherlands-annual-ecology-meeting)), Lunteren, Netherlands, 10–11 February 2026. _Poster_{:.badge .bg-secondary}
