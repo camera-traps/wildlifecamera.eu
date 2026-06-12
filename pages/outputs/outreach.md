@@ -9,6 +9,8 @@ permalink: /outreach/
 
 ## 2026
 
+Speaker T, Batist C, Hughey L, **Cagnacci F**, Davidson S, Pye J, Meneses C, **Desmet P** (2026) Wild Moves and Wild Album: New GBIF Data Portals for Animal Tracking and Camera Trap Data. [WILDLABS](https://wildlabs.net/en/article/wild-moves-and-wild-album-new-gbif-data-portals-animal-tracking-and-camera-trap-data), 4 June 2026. _News article_{:.badge .bg-secondary}
+
 **Desmet P** (2026) How a camera trap data standard enabled an ecosystem of interoperable tools. [BioMonWeek](https://biomonweek.eu/), Montpellier, France, 4-8 May 2026. [View presentation](https://speakerdeck.com/peterdesmet/how-a-camera-trap-data-standard-enabled-an-ecosystem-of-interoperable-tools). _Accepted talk_{:.badge .bg-secondary}
 
 **Iannarilli F** (2026) Gestione e condivisione dei dati da fototrappola: Approcci e strumenti per studi su piccola e larga scala (Management and sharing of camera trap data: Approaches and tools for studies at small and large scale). [GIORNATE TECNICHE DEL GLAMM – IV Edizione](https://www.mammiferi.org/giornate-tecniche-del-glamm-iv-edizione/), Bologna, Italy, 12-13 February 2026. _Invited talk_{:.badge .bg-secondary}
