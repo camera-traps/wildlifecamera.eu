@@ -30,7 +30,7 @@ Camera Trap Data Package (Camtrap DP) is a community-developed data exchange for
 
 ## camtrapdp
 
-Camtrapdp is an R package to read and manipulate Camera Trap Data Packages (Camtrap DP). [Camtrap DP](https://camtrap-dp.tdwg.org) is a data exchange format for camera trap data. With camtrapdp you can read, filter and transform data (including to [Darwin Core](https://dwc.tdwg.org)) before further analysis in e.g. [camtraptor](https://inbo.github.io/camtraptor/) or [camtrapR](https://cran.r-project.org/package=camtrapR).
+camtrapdp is an R package to read and manipulate Camera Trap Data Packages (Camtrap DP). [Camtrap DP](https://camtrap-dp.tdwg.org) is a data exchange format for camera trap data. With camtrapdp you can read, filter and transform data (including to [Darwin Core](https://dwc.tdwg.org)) before further analysis in e.g. [camtraptor](https://inbo.github.io/camtraptor/) or [camtrapR](https://cran.r-project.org/package=camtrapR).
 
 > **Desmet P**, **Govaert S**, Huybrechts P, Oldoni D (2026) camtrapdp: Read and Manipulate Camera Trap Data Packages. R package version 0.5.0. <https://inbo.github.io/camtrapdp>, <https://cran.r-project.org/package=camtrapdp>
 
@@ -52,7 +52,7 @@ CamtrapReport is an R package to explore and process camera trap data and automa
 
 ## camtraptor
 
-Camtraptor is an R package to read, explore and visualize Camera Trap Data Packages (Camtrap DP). [Camtrap DP](https://camtrap-dp.tdwg.org) is a community developed data exchange format for this type of data. With camtraptor you can read and filter data, create overviews of observed species, relative abundance or effort, and plot these data on a map.
+camtraptor is an R package to read, explore and visualize Camera Trap Data Packages (Camtrap DP). [Camtrap DP](https://camtrap-dp.tdwg.org) is a community developed data exchange format for this type of data. With camtraptor you can read and filter data, create overviews of observed species, relative abundance or effort, and plot these data on a map.
 
 > Oldoni D, **Desmet P**, Huybrechts P (2025) camtraptor: Read, Explore and Visualize Camera Trap Data Packages. R package version 0.28.0. <https://inbo.github.io/camtraptor>
 
