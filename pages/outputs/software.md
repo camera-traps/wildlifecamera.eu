@@ -79,3 +79,13 @@ TRAPPER is a scalable, open-source and AI-driven camera trap data infrastructure
 {:.btn-group}
 [Website](https://os-conservation.org/trapper){:.btn .btn-sm .btn-primary}
 [Source code](https://gitlab.com/trapper-project){:.btn .btn-sm .btn-light}
+
+## Wild Album
+
+Wild Album is a data portal highlighting camera trap data published through the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/). It allows users to find data that might fit their need and allows datasets owners to make their research more discoverable.
+
+> **Desmet P**, **Cagnacci F**, **Iannarilli F**, Meneses C, Speaker T (2026) Wild Album: Camera trap data portal. <https://album.wildlabs.net>
+
+{:.btn-group}
+[Website](https://album.wildlabs.net){:.btn .btn-sm .btn-primary}
+[Source code](https://github.com/gbif/hp-wild-album){:.btn .btn-sm .btn-light}
