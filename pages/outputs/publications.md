@@ -11,6 +11,10 @@ permalink: /publications/
 
 ## 2026
 
+Dixon Z, **Casaer J** (supervisor) (2026) Response of ungulates in a Belgian nature park to two anthropogenic disturbances: hunting and recreation. _Vrije Universiteit Brussel_. _Master thesis_{:.badge .bg-secondary}
+
+Kerremans R, **Casaer J** (supervisor) (2026) Assessing the influence of vegetation structure on detection distance in camera trap data. _Ghent University_. _Master thesis_{:.badge .bg-secondary}
+
 Arseni M, Brivio F (supervisor), **Vicente J** (co-supervisor), Scandura M (co-supervisor) (2026) The added value of pan-European camera trap data sharing: early detection of animal invaders and recent distribution shifts. _University of Sassari_, 48 pp. _Master thesis_{:.badge .bg-secondary}
 
 Boer-Cueva M, Bombieri G, Centomo E, Partel P, Dorigatti E, Ferraro E, Greco I, **Rovero F**, **Salvatori M** (2026) Hunting and Outdoor Recreation Affect Large Herbivore Activity Patterns More Than Natural Predators in a Human-Dominated Landscape. _Ecology and Evolution_ 16 (2): e73033. <https://doi.org/10.1002/ece3.73033>
