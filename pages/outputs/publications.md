@@ -25,6 +25,10 @@ Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasi
 
 Angoh SYJ, Brainerd SM, Devineau O, Odden M, **Jahren T** (2025) Landscape factors influencing predation on capercaillie nests by two competing mesopredators: pine marten and red fox. _Wildlife Biology_, e01445. <https://doi.org/10.1002/wlb3.01445>
 
+Indestege S, **Bollen M**, **Casaer J**, Beenaerts N (2025) Do long-term camera trap sampling designs matter to estimate diel activity? _European Journal of Wildlife Research_, 71(6), 1-6. <https://doi.org/10.1007/s10344-025-02013-3>
+
+Kuypers W, **Bollen M**, **Casaer J**, Beenaerts N (2025) Trapped by trails: How different types of recreational trails influence seasonal space use of wildlife in a densely visited national park. _Science of the total environment_, 996, 180091. <https://doi.org/10.1016/j.scitotenv.2025.180091>
+
 **Frauendorf M**, **Bubnicki JW**, Ånöstam F, Tynecki P, Wałejko Ł, Cromsigt JP, Widemo F, **Hofmeester TR** (2025) Trapper Citizen Science: an open-source camera trap platform for citizen science in wildlife research and management. <!--_Ecological Applications._--> <https://doi.org/10.32942/X2G35W> _Preprint_{:.badge .bg-secondary}
 
 Dussert G, Dray S, **Chamaillé-Jammes S**, **Miele V** (2026) Paying Attention to Other Animal Detections Improves Camera Trap Classification Models. <!--_Methods in Ecology and Evolution._--> <https://doi.org/10.1101/2025.07.15.664849> _Preprint_{:.badge .bg-secondary}
