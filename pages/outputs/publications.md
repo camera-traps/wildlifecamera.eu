@@ -11,15 +11,23 @@ permalink: /publications/
 
 ## 2026
 
+Dixon Z, Brans K (supervisor), **Bollen M** (co-supervisor), **Casaer J** (co-supervisor) (2026) Response of ungulates in a Belgian nature park to two anthropogenic disturbances: hunting and recreation. _Vrije Universiteit Brussel_, 40 pp. _Master thesis_{:.badge .bg-secondary}
+
+Kerremans R, Baeten L (supervisor), **Casaer J** (co-supervisor), Vanroy T (co-supervisor) (2026) Assessing the influence of vegetation structure on detection distance in camera trap data. _Ghent University_, 89 pp. _Master thesis_{:.badge .bg-secondary}
+
 Arseni M, Brivio F (supervisor), **Vicente J** (co-supervisor), Scandura M (co-supervisor) (2026) The added value of pan-European camera trap data sharing: early detection of animal invaders and recent distribution shifts. _University of Sassari_, 48 pp. _Master thesis_{:.badge .bg-secondary}
 
 Boer-Cueva M, Bombieri G, Centomo E, Partel P, Dorigatti E, Ferraro E, Greco I, **Rovero F**, **Salvatori M** (2026) Hunting and Outdoor Recreation Affect Large Herbivore Activity Patterns More Than Natural Predators in a Human-Dominated Landscape. _Ecology and Evolution_ 16 (2): e73033. <https://doi.org/10.1002/ece3.73033>
 
-Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasio T, Scandura M, Apollonio M, Carvalho J, Torres RT, Pinto N, Ares-Pereira G, Fonseca C, Keuling O, Šprem N, Gavashelis A, Kerdikoshvili N, Shakun V, De Waele V, Licoppe A, Plhal R, Bicho C, Gutiérrez I, Santos J, **Buzan E**, **Pokorny B**, Gačić D, Ertürk A, Soyumert A, Stoyanov S, Gruychev G, Illanas S, Fernandez-Lopez J, Csányi S, Plis K, Podgórski T, Zanet S, Ferroglio E (2026) Mapping wild boar density across Europe: combining spatial models and density estimates. _European Journal of Wildlife Research_. <https://doi.org/10.1007/s10344-026-02059-x>
+Smith G, **Vicente J**, Croft S, Warren D, Blanco-Aguiar JA, Acevedo P, Guerrasio T, Scandura M, Apollonio M, Carvalho J, Torres RT, Pinto N, Ares-Pereira G, Fonseca C, Keuling O, Šprem N, Gavashelishvili A, Kerdikoshvili N, Shakun V, De Waele V, Licoppe A, Plhal R, Bicho C, Gutiérrez I, Santos J, **Buzan E**, **Pokorny B**, Gačić D, Ertürk A, Soyumert A, Stoyanov S, Gruychev G, Illanas S, Fernandez-Lopez J, Csányi S, Plis K, Podgórski T, **Casaer J**, Zanet S, Ferroglio E (2026) Mapping wild boar density across Europe: combining spatial models and density estimates. _European Journal of Wildlife Research_. <https://doi.org/10.1007/s10344-026-02059-x>
 
 ## 2025
 
 Angoh SYJ, Brainerd SM, Devineau O, Odden M, **Jahren T** (2025) Landscape factors influencing predation on capercaillie nests by two competing mesopredators: pine marten and red fox. _Wildlife Biology_, e01445. <https://doi.org/10.1002/wlb3.01445>
+
+Indestege S, **Bollen M**, **Casaer J**, Beenaerts N (2025) Do long-term camera trap sampling designs matter to estimate diel activity? _European Journal of Wildlife Research_, 71(6), 1-6. <https://doi.org/10.1007/s10344-025-02013-3>
+
+Kuypers W, **Bollen M**, **Casaer J**, Beenaerts N (2025) Trapped by trails: How different types of recreational trails influence seasonal space use of wildlife in a densely visited national park. _Science of the total environment_, 996, 180091. <https://doi.org/10.1016/j.scitotenv.2025.180091>
 
 **Frauendorf M**, **Bubnicki JW**, Ånöstam F, Tynecki P, Wałejko Ł, Cromsigt JP, Widemo F, **Hofmeester TR** (2025) Trapper Citizen Science: an open-source camera trap platform for citizen science in wildlife research and management. <!--_Ecological Applications._--> <https://doi.org/10.32942/X2G35W> _Preprint_{:.badge .bg-secondary}
 
