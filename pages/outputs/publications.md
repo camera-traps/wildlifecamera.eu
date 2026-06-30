@@ -11,9 +11,9 @@ permalink: /publications/
 
 ## 2026
 
-Dixon Z, **Casaer J** (supervisor) (2026) Response of ungulates in a Belgian nature park to two anthropogenic disturbances: hunting and recreation. _Vrije Universiteit Brussel_. _Master thesis_{:.badge .bg-secondary}
+Dixon Z, Brans K (supervisor), **Bollen M** (co-supervisor), **Casaer J** (co-supervisor) (2026) Response of ungulates in a Belgian nature park to two anthropogenic disturbances: hunting and recreation. _Vrije Universiteit Brussel_, 40 pp. _Master thesis_{:.badge .bg-secondary}
 
-Kerremans R, **Casaer J** (supervisor) (2026) Assessing the influence of vegetation structure on detection distance in camera trap data. _Ghent University_. _Master thesis_{:.badge .bg-secondary}
+Kerremans R, Baeten L (supervisor), **Casaer J** (co-supervisor), Vanroy T (co-supervisor) (2026) Assessing the influence of vegetation structure on detection distance in camera trap data. _Ghent University_, 89 pp. _Master thesis_{:.badge .bg-secondary}
 
 Arseni M, Brivio F (supervisor), **Vicente J** (co-supervisor), Scandura M (co-supervisor) (2026) The added value of pan-European camera trap data sharing: early detection of animal invaders and recent distribution shifts. _University of Sassari_, 48 pp. _Master thesis_{:.badge .bg-secondary}
 
