@@ -9,6 +9,14 @@ background:
 permalink: /
 ---
 
+<div class="alert alert-success" markdown="1">
+#### Help shape the future of wildlife conservation
+
+Share your experience as a hunter in our Europe-wide survey on trail camera use. There's a chance to win a reward for participants who complete it! The survey is available in 12 languages.
+
+[Fill out the survey](https://nettskjema.no/a/614970){:.btn .btn-success}
+</div>
+
 ## What do we want to do?
 
 <div markdown="1" class="clearfix">
